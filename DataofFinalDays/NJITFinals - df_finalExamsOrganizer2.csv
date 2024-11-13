@@ -1,0 +1,1348 @@
+Exam_Component_ID,Title,Date_of_Test,Time_of_Test,Building,Room,Instructor,class,class_level
+1,Fund of Financial Accounting,12-17-2024,8:30AM-11:00AM,WEST,LECT 2,Micale,ACCT,115
+3,Fund of Financial Accounting,12-17-2024,8:30AM-11:00AM,ECEC,115,Ma,ACCT,115
+5,Fund of Financial Accounting,12-17-2024,8:30AM-11:00AM,GITC,1400,Seda,ACCT,115
+7,Fund of Financial Accounting,12-17-2024,8:30AM-11:00AM,GITC,1400,Seda,ACCT,115
+101,Fund of Financial Accounting,12-18-2024,6:00PM-8:30PM,WEST,LECT 2,Nwachuku,ACCT,115
+103,Fund of Financial Accounting,12-19-2024,6:00PM-8:30PM,CAB,3052,Beerbower,ACCT,115
+1,Principles Of Fin Accountng,12-17-2024,8:30AM-11:00AM,CKB,217,Derbaly,ACCT,117
+3,Principles Of Fin Accountng,12-17-2024,8:30AM-11:00AM,CKB,217,Derbaly,ACCT,117
+101,Principles Of Fin Accountng,12-17-2024,6:00PM-8:30PM,FMH,306,Green,ACCT,117
+1,Managerial Accounting I,12-17-2024,8:30AM-11:00AM,CULM,LECT 2,Tamke,ACCT,215
+3,Managerial Accounting I,12-17-2024,8:30AM-11:00AM,CULM,LECT 2,Tamke,ACCT,215
+1,Intermediate Accounting I,12-18-2024,8:30AM-11:00AM,FMH,319,Tamke,ACCT,325
+1,Financial Statement Analysis,12-17-2024,2:30PM-5:00PM,FMH,403,Tamke,ACCT,403
+101,Tax Accounting I,12-19-2024,6:00PM-8:30PM,KUPF,203,Tang,ACCT,425
+1,Management Accounting,12-18-2024,2:30PM-5:00PM,KUPF,108,Taylor,ACCT,615
+3,Management Accounting,12-18-2024,2:30PM-5:00PM,FMH,313,Li,ACCT,615
+853,Management Accounting,12-21-2024,9:00AM-11:30AM,Online,NULL,Seda,ACCT,615
+855,Management Accounting,12-18-2024,6:00PM-8:30PM,Online,NULL,Taylor,ACCT,615
+1,Color and Composition,12-19-2024,8:30AM-11:00AM,WEST,LECT 1,Short,AD,150
+3,Color and Composition,12-19-2024,8:30AM-11:00AM,WEST,LECT 1,Nelson,AD,150
+5,Color and Composition,12-19-2024,8:30AM-11:00AM,WEST,LECT 1,Sobers,AD,150
+9,Color and Composition,12-19-2024,8:30AM-11:00AM,WEST,LECT 1,Goldman,AD,150
+11,Color and Composition,12-19-2024,8:30AM-11:00AM,WEST,LECT 1,Sobers,AD,150
+13,Color and Composition,12-19-2024,8:30AM-11:00AM,WEST,LECT 1,Countee,AD,150
+1,History of Art And Design I,12-17-2024,2:30PM-5:00PM,TIER,LECT 2,Kogle,AD,161
+1,History of Architecture,12-16-2024,8:30AM-11:00AM,CULM,LECT 1,Altin,AD,261
+HM1,History of Architecture,12-16-2024,8:30AM-11:00AM,CULM,LECT 1,Altin,AD,261
+3,History of Architecture I,12-17-2024,2:30PM-5:00PM,WEST,LECT 1,Godel,ARCH,210
+HM3,History of Architecture I,12-17-2024,2:30PM-5:00PM,WEST,LECT 1,Godel,ARCH,210
+1,Structures I,12-19-2024,2:30PM-5:00PM,WEST,LECT 1,Taher,ARCH,303
+3,Envrmntal Control Systems I,12-20-2024,11:30AM-2:00PM,ME,224,Kim,ARCH,309
+5,Envrmntal Control Systems I,12-16-2024,2:30PM-5:00PM,TIER,LECT 2,Kim,ARCH,309
+1,Building Information Modeling,12-16-2024,8:30AM-11:00AM,CKB,212,Cays,ARCH,337
+3,Building Information Modeling,12-16-2024,8:30AM-11:00AM,FMH,407,Fortunato,ARCH,337
+101,Building Information Modeling,12-18-2024,6:00PM-8:30PM,WEST,651,Warshofsky,ARCH,337
+103,Building Information Modeling,12-16-2024,6:00PM-8:30PM,MALL,PC39,Ikharo,ARCH,337
+1,Advanced Structures,12-16-2024,2:30PM-5:00PM,CKB,315,Taher,ARCH,429
+1,Professional Practice I,12-17-2024,8:30AM-11:00AM,WEST,LECT 1,Sollohub,ARCH,472
+103,ST:,12-19-2024,6:00PM-8:30PM,TIER,111,Cays,ARCH,483
+105,ST:,12-19-2024,6:00PM-8:30PM,WEST,258,Berlinghieri,ARCH,483
+3,Structures I,12-20-2024,2:30PM-5:00PM,FMH,305,Taher,ARCH,545
+1,Professional Practice I,12-17-2024,2:30PM-5:00PM,FMH,313,Sollohub,ARCH,569
+1,Life Cycle Assessment,12-17-2024,2:30PM-5:00PM,CKB,310,Cays,ARCH,622
+101,Urban Planning and Design,12-18-2024,6:00PM-8:30PM,WEST,310,Watson,ARCH,636
+101,Des & Opt Building Encl,12-19-2024,6:00PM-8:30PM,CKB,341,Lee,ARCH,646
+101,Visualizing Urbanism,12-19-2024,6:00PM-8:30PM,WEST,310,Rodin,ARCH,647
+101,Economy Of Building,12-18-2024,6:00PM-8:30PM,CKB,310,Hutchinson,ARCH,650
+101,Geographic Information Systems,12-16-2024,6:00PM-8:30PM,WEST,140,Rodin,ARCH,677
+1,Concepts in Biology,12-20-2024,8:30AM-11:00AM,TIER,LECT 2,Stanko,BIOL,200
+3,Concepts in Biology,12-20-2024,8:30AM-11:00AM,TIER,LECT 2,Stanko,BIOL,200
+5,Concepts in Biology,12-20-2024,8:30AM-11:00AM,TIER,LECT 2,Stanko,BIOL,200
+7,Concepts in Biology,12-20-2024,8:30AM-11:00AM,TIER,LECT 2,Stanko,BIOL,200
+9,Concepts in Biology,12-20-2024,8:30AM-11:00AM,TIER,LECT 2,Stanko,BIOL,200
+11,Concepts in Biology,12-20-2024,8:30AM-11:00AM,TIER,LECT 2,Stanko,BIOL,200
+H01,Concepts in Biology,12-20-2024,8:30AM-11:00AM,ECEC,100,Devan,BIOL,200
+H03,Concepts in Biology,12-20-2024,8:30AM-11:00AM,ECEC,100,Devan,BIOL,200
+1,Found of Biol: Cell & Molecula,12-16-2024,2:30PM-5:00PM,CKB,217,Yarotsky,BIOL,201
+H01,Found of Biol: Cell & Molecula,12-16-2024,2:30PM-5:00PM,TIER,114,Konsolaki,BIOL,201
+1,Found of Bio:Ecol & Evol I,12-18-2024,11:30AM-2:00PM,CKB,217,Devan,BIOL,205
+1,Principles of Neurobiology,12-16-2024,8:30AM-11:00AM,CULM,111,Golowasch,BIOL,315
+3,Principles of Neurobiology,12-16-2024,8:30AM-11:00AM,CKB,206,Severi,BIOL,315
+1,Ecology of Dining Hall,12-18-2024,2:30PM-5:00PM,CKB,226,Stanko,BIOL,338
+1,Developmental Biology,12-17-2024,2:30PM-5:00PM,CKB,126,Edgar,BIOL,342
+1,Genetics,12-16-2024,2:30PM-5:00PM,KUPF,210,Nelson,BIOL,352
+1,Molecular Biology,12-19-2024,8:30AM-11:00AM,FMH,405,Konsolaki,BIOL,356
+1,Neural Basis Of Behavior,12-18-2024,8:30AM-11:00AM,CKB,207,Haspel,BIOL,383
+1,Neurophysiology,12-19-2024,8:30AM-11:00AM,FMH,407,Bucher,BIOL,441
+HM1,Neurophysiology,12-19-2024,8:30AM-11:00AM,FMH,407,Bucher,BIOL,441
+1,Biol Addiction,12-18-2024,2:30PM-5:00PM,CKB,313,Nadim,BIOL,443
+1,Neuropathophysiology,12-16-2024,2:30PM-5:00PM,FMH,403,Desai,BIOL,448
+H01,Disease Ecology & Evolution,12-20-2024,2:30PM-5:00PM,CKB,310,Russell,BIOL,468
+H01,Ecological Field Methods,12-17-2024,2:30PM-5:00PM,CKB,212,Stanko,BIOL,475
+H01,Evol of Animal Behavior Lab,12-18-2024,8:30AM-11:00AM,FMH,110,Devan,BIOL,484
+101,Special Topics in Biology,12-19-2024,6:00PM-8:30PM,KUPF,210,Sanchez,BIOL,498
+103,Special Topics in Biology,12-19-2024,6:00PM-8:30PM,KUPF,210,Sanchez,BIOL,498
+1,Cellular Neurophysiology,12-19-2024,8:30AM-11:00AM,FMH,407,Bucher,BIOL,640
+1,Biology of Addiction,12-18-2024,2:30PM-5:00PM,CKB,313,Nadim,BIOL,643
+1,Neuropathology,12-16-2024,2:30PM-5:00PM,FMH,403,Desai,BIOL,648
+101,Human Anatomy,12-19-2024,6:00PM-8:30PM,KUPF,210,Sanchez,BIOL,650
+1,Evolutionary Medicine,12-20-2024,2:30PM-5:00PM,CKB,310,Russell,BIOL,668
+3,Introduction to Physiology,12-16-2024,11:30AM-2:00PM,CKB,226,Aqeel,BME,111
+1,Processing Fund for Biol Signa,12-16-2024,2:30PM-5:00PM,FENS,636,Alvarez,BME,210
+3,Processing Fund for Biol Signa,12-16-2024,2:30PM-5:00PM,FENS,640,Di,BME,210
+1,Intro Biomedical Engineering I,12-19-2024,11:30AM-2:00PM,KUPF,108,Schesser,BME,301
+3,Intro Biomedical Engineering I,12-19-2024,11:30AM-2:00PM,KUPF,108,Schesser,BME,301
+HM1,Intro Biomedical Engineering I,12-19-2024,11:30AM-2:00PM,KUPF,108,Schesser,BME,301
+1,Bio & Chemical Found Of Bme,12-20-2024,8:30AM-11:00AM,FMH,408,Buffone,BME,303
+101,Material Fundamentals of BME,12-17-2024,6:00PM-8:30PM,ECEC,115,Oni,BME,304
+HM1,Material Fundamentals of BME,12-17-2024,6:00PM-8:30PM,ECEC,115,Oni,BME,304
+1,Adv Mechanics for Biomed Engr,12-19-2024,8:30AM-11:00AM,CKB,206,Zhou,BME,321
+1,Biomedical Signals And Systems,12-17-2024,2:30PM-5:00PM,MALL,PC37,Kallioniemi,BME,333
+1,Bioinstrumentation Laboratory,12-20-2024,2:30PM-5:00PM,FMH,403,Sahin,BME,386
+103,Adv Biomaterials Science,12-16-2024,6:00PM-8:30PM,CKB,215,Chattaraj,BME,420
+1,Biomaterials Characterization,12-18-2024,2:30PM-5:00PM,FMH,319,Jaffe,BME,422
+1,Fund Of Tissue Engineering,12-19-2024,2:30PM-5:00PM,FMH,313,Grasman,BME,430
+1,Biomechanics I,12-17-2024,2:30PM-5:00PM,CULM,111,Son,BME,451
+101,Principles of Medical Imaging,12-19-2024,6:00PM-8:30PM,FENS,698,Biswal,BME,471
+101,FDA Regulation Medical Devices,12-17-2024,6:00PM-8:30PM,CKB,313,Moodey,BME,472
+1,Capstone I,12-16-2024,2:30PM-5:00PM,KUPF,205,Collins,BME,495
+3,Capstone I,12-16-2024,2:30PM-5:00PM,KUPF,205,Collins,BME,495
+HM1,Capstone I,12-16-2024,2:30PM-5:00PM,FMH,313,Schesser,BME,495
+HM3,Capstone I,12-16-2024,2:30PM-5:00PM,FMH,313,Schesser,BME,495
+1,Capstone Design II,12-20-2024,2:30PM-5:00PM,CKB,219,Schesser,BME,496
+HM1,Capstone Design II,12-20-2024,2:30PM-5:00PM,CKB,219,Schesser,BME,496
+101,Biomaterials,12-17-2024,6:00PM-8:30PM,KUPF,118,Collins,BME,672
+101,Princ Of Neuromusc Engineering,12-17-2024,6:00PM-8:30PM,FENS,636,Adamovich,BME,674
+101,CAD for Biomech & Biomaterials,12-18-2024,6:00PM-8:30PM,MALL,PC40,Androwis,BME,677
+101,Virtual Biomedical Instrument,12-16-2024,6:00PM-8:30PM,FENS,636,DeMarco,BME,688
+1,Graduate Seminar,12-16-2024,11:30AM-2:00PM,FMH,408,Buffone,BME,791
+101,Biomedical Mechatronics,12-18-2024,6:00PM-8:30PM,GITC,1404,Yaramothu,BMET,415
+1,Programming For Bioinformatics,12-16-2024,11:30AM-2:00PM,CKB,217,Wu,BNFO,135
+3,Programming For Bioinformatics,12-16-2024,11:30AM-2:00PM,CKB,217,Wu,BNFO,135
+5,Programming For Bioinformatics,12-16-2024,11:30AM-2:00PM,CKB,217,Wu,BNFO,135
+1,Constrn Matrls & Procdrs,12-16-2024,11:30AM-2:00PM,CKB,222,Golon,CE,210
+3,Constrn Matrls & Procdrs,12-16-2024,11:30AM-2:00PM,CKB,320,Karaa,CE,210
+101,Constrn Matrls & Procdrs,12-19-2024,6:00PM-8:30PM,CKB,206,Hassane Assaad,CE,210
+1,Fluid Mechanics,12-19-2024,2:30PM-5:00PM,FMH,408,Olenik,CE,320
+101,Fluid Mechanics,12-17-2024,6:00PM-8:30PM,CKB,120,Olenik,CE,320
+HM1,Fluid Mechanics,12-17-2024,6:00PM-8:30PM,CKB,120,Olenik,CE,320
+1,Water Resources Engr,12-20-2024,2:30PM-5:00PM,CKB,206,Olenik,CE,321
+101,Water Resources Engr,12-17-2024,6:00PM-8:30PM,KUPF,211,Del Monaco,CE,321
+1,Structural Analysis,12-16-2024,2:30PM-5:00PM,TIER,106,Saigal,CE,332
+101,Structural Analysis,12-19-2024,6:00PM-8:30PM,KUPF,205,Saadeghvaziri,CE,332
+1,Reinforced Concrete Design,12-20-2024,8:30AM-11:00AM,FMH,407,Castro,CE,333
+3,Reinforced Concrete Design,12-20-2024,8:30AM-11:00AM,CKB,223,Wecharatana,CE,333
+101,Soil Mechanics,12-16-2024,6:00PM-8:30PM,CKB,217,Ciancia,CE,341
+1,Geology,12-17-2024,2:30PM-5:00PM,KUPF,203,Schuring,CE,342
+3,Geology,12-17-2024,2:30PM-5:00PM,KUPF,203,Schuring,CE,342
+101,Geology,12-17-2024,6:00PM-8:30PM,COLT,416,Riegel,CE,342
+101,Transportation Engr,12-19-2024,6:00PM-8:30PM,CKB,219,Besenski,CE,350
+103,Transportation Engr,12-17-2024,6:00PM-8:30PM,CKB,303,Lee,CE,350
+HM1,Transportation Engr,12-19-2024,6:00PM-8:30PM,CKB,219,Besenski,CE,350
+103,Sustainable Civil Engr Mat,12-18-2024,6:00PM-8:30PM,KUPF,210,Korayem,CE,360
+101,Constr Schedlng/Estimtng,12-16-2024,6:00PM-8:30PM,COLT,416,Slaughter,CE,410
+1,Engineered Construction,12-20-2024,2:30PM-5:00PM,CKB,126,Roessner,CE,414
+101,Steel Design,12-18-2024,6:00PM-8:30PM,KUPF,206,Castro,CE,432
+103,Steel Design,12-20-2024,6:00PM-8:30PM,CKB,314,Prasad,CE,432
+1,Foundation Design,12-16-2024,8:30AM-11:00AM,KUPF,107,Ciancia,CE,443
+3,Foundation Design,12-16-2024,8:30AM-11:00AM,CKB,220,Shah,CE,443
+101,Professional Practice In CEE,12-16-2024,6:00PM-8:30PM,CKB,222,Prasad,CE,461
+101,Geographic Inform Sys,12-19-2024,6:00PM-8:30PM,CKB,313,Shabarek,CE,602
+101,Construction Mgt,12-20-2024,6:00PM-8:30PM,CKB,206,Roessner,CE,610
+851,Construction Mgt,12-20-2024,6:00PM-8:30PM,Online,NULL,Wynn,CE,610
+853,Construction Mgt,12-21-2024,3:00PM-5:30PM,Online,NULL,Wynn,CE,610
+851,Proj Planning & Control,12-17-2024,6:00PM-8:30PM,Online,NULL,Hanna,CE,611
+853,Proj Planning & Control,12-20-2024,6:00PM-8:30PM,Online,NULL,Hanna,CE,611
+851,Underground Construction,12-19-2024,6:00PM-8:30PM,Online,NULL,Slaughter,CE,614
+851,Infrastructure & Fac Rem,12-18-2024,6:00PM-8:30PM,Online,NULL,Venkiteela,CE,615
+101,Construction Cost Estmt,12-16-2024,6:00PM-8:30PM,CULM,111,Oraedu,CE,616
+851,Construction Cost Estmt,12-21-2024,3:00PM-5:30PM,Online,NULL,Venkiteela,CE,616
+101,Hydrology,12-17-2024,6:00PM-8:30PM,CKB,207,Ding,CE,621
+101,Prestressed Concrete Dsn,12-19-2024,6:00PM-8:30PM,KUPF,209,Navalurkar,CE,632
+101,Fracture Mech Materials,12-16-2024,6:00PM-8:30PM,FMH,409,Wecharatana,CE,635
+851,Mech & Stability of Structures,12-21-2024,3:00PM-5:30PM,Online,NULL,Taher,CE,636
+851,Foundation Engineering,12-16-2024,6:00PM-8:30PM,Online,NULL,Riegel,CE,642
+101,Applied Engineering Geology,12-17-2024,6:00PM-8:30PM,CKB,126,Kolawole,CE,644
+101,Flow Through Soils,12-19-2024,6:00PM-8:30PM,CKB,114,Meegoda,CE,648
+101,Special Topics,12-18-2024,6:00PM-8:30PM,CKB,315,Bandelt,CE,702
+103,Special Topics,12-17-2024,6:00PM-8:30PM,CKB,330,Wang,CE,702
+851,Methods Impmnt In Constr,12-21-2024,6:00PM-8:30PM,Online,NULL,Slaughter,CE,711
+1,Construction Procedures I,12-18-2024,8:30AM-11:00AM,CKB,219,Valoura,CET,313
+101,Construction Procedures I,12-17-2024,6:00PM-8:30PM,MALL,PC39,McCall,CET,313
+1,Construction Computing,12-19-2024,2:30PM-5:00PM,GITC,2400,Feng,CET,317
+101,Construction Computing,12-20-2024,6:00PM-8:30PM,FENS,160,Hawes,CET,317
+101,Constructn Regs & Standa,12-17-2024,6:00PM-8:30PM,CKB,314,Wiggins,CET,322
+101,Structural Systems,12-19-2024,6:00PM-8:30PM,FMH,108,Porcello,CET,331
+101,Cost Estimating,12-18-2024,6:00PM-8:30PM,FMH,313,Gottko,CET,411
+101,Contructn Proj Managemnt,12-16-2024,6:00PM-8:30PM,KUPF,207,Wiggins,CET,415
+1,Construction Testing,12-20-2024,2:30PM-5:00PM,FMH,412,Washington,CET,431
+1,Material and Energy Balances,12-17-2024,8:30AM-11:00AM,TIER,411B,Cimino,CHE,201
+1,Chem Engineer Thermodynamics I,12-18-2024,11:30AM-2:00PM,TIER,411B,Xu,CHE,230
+1,Fluid Flow,12-18-2024,2:30PM-5:00PM,CKB,207,Venerus,CHE,260
+1,Chemical Process Safety,12-19-2024,2:30PM-5:00PM,FMH,321,Cimino,CHE,312
+HM1,Chemical Process Safety,12-19-2024,2:30PM-5:00PM,FMH,321,Cimino,CHE,312
+1,Chem Eng Thermodynam II,12-20-2024,2:30PM-5:00PM,CKB,314,Reid,CHE,342
+HM1,Chem Eng Thermodynam II,12-20-2024,2:30PM-5:00PM,CKB,314,Reid,CHE,342
+1,Kinetics & Reactor Desgn,12-17-2024,2:30PM-5:00PM,FMH,321,Baltzis,CHE,349
+1,Separation Processes I,12-20-2024,2:30PM-5:00PM,FMH,314,Cimino,CHE,360
+101,Chemical Engr Computing,12-18-2024,6:00PM-8:30PM,TIER,411B,Voronov,CHE,365
+1,Heat And Mass Transfer,12-16-2024,2:30PM-5:00PM,TIER,105,Sebastian,CHE,370
+1,Process Dynamics And Control,12-18-2024,2:30PM-5:00PM,KUPF,104,Reid,CHE,489
+1,Chemical Engineering Lab I,12-19-2024,11:30AM-2:00PM,TIER,411B,Rankin,CHE,495
+1,Chemical Engineering Lab II,12-18-2024,2:30PM-5:00PM,TIER,411B,Molodetsky,CHE,496
+101,Kintcs Of Rctns Rctr Dgn,12-18-2024,6:00PM-8:30PM,TIER,106,Wang,CHE,612
+101,Math Methods In Chem Eng,12-17-2024,6:00PM-8:30PM,CKB,223,Bilgili,CHE,626
+101,Adv Membrane Separation Proc,12-19-2024,6:00PM-8:30PM,TIER,112,Sirkar,CHE,710
+1,Fund Of Chemical Principles I,12-18-2024,8:30AM-11:00AM,CKB,217,Edens,CHEM,121
+3,Fund Of Chemical Principles I,12-18-2024,8:30AM-11:00AM,CKB,106,Edens,CHEM,121
+101,Fund Of Chemical Principles I,12-17-2024,6:00PM-8:30PM,FMH,213,Edens,CHEM,121
+1,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,111,DePaolo,CHEM,125
+3,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,202,DePaolo,CHEM,125
+5,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,105,DePaolo,CHEM,125
+7,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,LECT 2,DeSantis,CHEM,125
+9,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,LECT 2,DeSantis,CHEM,125
+11,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,210,DeSantis,CHEM,125
+13,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,210,Peels,CHEM,125
+15,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,211,Peels,CHEM,125
+17,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,211,Peels,CHEM,125
+19,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,118,Agarwal,CHEM,125
+21,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,106,Agarwal,CHEM,125
+23,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,LECT 1,Agarwal,CHEM,125
+25,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,LECT 1,Kikhwa,CHEM,125
+27,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,113,DeSantis,CHEM,125
+29,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,112,Jimenez-Aleman,CHEM,125
+31,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,209,Kikhwa,CHEM,125
+33,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,108,DePaolo,CHEM,125
+35,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,LECT 2,DePaolo,CHEM,125
+37,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,117,Ananthanarayanan,CHEM,125
+39,General Chemistry I,12-18-2024,8:30AM-11:00AM,TIER,106,Ananthanarayanan,CHEM,125
+41,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,117,Koh,CHEM,125
+101,General Chemistry I,12-17-2024,6:00PM-8:30PM,KUPF,117,Lee,CHEM,125
+103,General Chemistry I,12-16-2024,6:00PM-8:30PM,KUPF,117,McFarlane,CHEM,125
+H01,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,205,Balasubramanian,CHEM,125
+H03,General Chemistry I,12-18-2024,8:30AM-11:00AM,KUPF,205,Balasubramanian,CHEM,125
+1,Gen Chemistry II,12-19-2024,2:30PM-5:00PM,TIER,LECT 1,Koh,CHEM,126
+3,Gen Chemistry II,12-19-2024,2:30PM-5:00PM,TIER,LECT 1,Koh,CHEM,126
+5,Gen Chemistry II,12-19-2024,2:30PM-5:00PM,KUPF,105,Ananthanarayanan,CHEM,126
+7,Gen Chemistry II,12-19-2024,2:30PM-5:00PM,TIER,LECT 1,Koh,CHEM,126
+9,Gen Chemistry II,12-19-2024,2:30PM-5:00PM,TIER,LECT 1,Koh,CHEM,126
+11,Gen Chemistry II,12-19-2024,2:30PM-5:00PM,TIER,LECT 1,Koh,CHEM,126
+101,Gen Chemistry II,12-16-2024,6:00PM-8:30PM,FMH,213,Lee,CHEM,126
+1,Analytical Chemistry,12-17-2024,8:30AM-11:00AM,KUPF,202,Edens,CHEM,222
+1,Physical Chemistry I,12-20-2024,8:30AM-11:00AM,CULM,110,Peels,CHEM,231
+1,Physical Chem For Chem Engrs,12-16-2024,2:30PM-5:00PM,CKB,220,Peels,CHEM,236
+1,Organic Chemistry I,12-19-2024,8:30AM-11:00AM,CULM,111,Gund,CHEM,243
+3,Organic Chemistry I,12-19-2024,8:30AM-11:00AM,ECEC,115,Champagne,CHEM,243
+101,Organic Chemistry I,12-17-2024,6:00PM-8:30PM,TIER,LECT 1,Zhang,CHEM,243
+H01,Organic Chemistry I,12-19-2024,8:30AM-11:00AM,CULM,110,DeSantis,CHEM,243
+1,Organic Chemistry II,12-19-2024,2:30PM-5:00PM,ME,221,DeSantis,CHEM,244
+101,Organic Chemistry II,12-16-2024,6:00PM-8:30PM,KUPF,118,DeSantis,CHEM,244
+101,Chemical Technology,12-18-2024,6:00PM-8:30PM,TIER,114,Zhang,CHEM,301
+103,Chemical Technology,12-18-2024,6:00PM-8:30PM,TIER,207,Pu,CHEM,301
+101,Quantum Chemistry,12-19-2024,6:00PM-8:30PM,TIER,108,Alipour Shakib,CHEM,336
+1,Chemistry of Materials,12-20-2024,2:30PM-5:00PM,FMH,110,Eberhart,CHEM,340
+1,Environmental Chemistry I,12-16-2024,8:30AM-11:00AM,CKB,310,Khalizov,CHEM,360
+1,Biochemistry,12-19-2024,2:30PM-5:00PM,CULM,LECT 1,Balasubramanian,CHEM,473
+101,Biochemistry Lab I,12-16-2024,6:00PM-8:30PM,TIER,209,Farinas,CHEM,475
+101,Adv Organic Chem:Structr,12-19-2024,6:00PM-8:30PM,TIER,107,Del Castillo,CHEM,605
+101,Special Topics,12-16-2024,6:00PM-8:30PM,FMH,307,Pacheco,CHEM,702
+101,Pharmaceutical Analysis,12-18-2024,6:00PM-8:30PM,TIER,LECT 1,DePaolo,CHEM,714
+101,Intro to the Concrete Industry,12-16-2024,6:00PM-8:30PM,FMH,306,Girgis,CIM,101
+103,Intro to the Concrete Industry,12-16-2024,6:00PM-8:30PM,CKB,320,Mahgoub,CIM,101
+101,Concrete Properties & Testing,12-20-2024,6:00PM-8:30PM,CKB,222,Ables,CIM,205
+1,Concrete Applications I,12-19-2024,2:30PM-5:00PM,FMH,110,Valoura,CIM,210
+101,Concrete Applications II,12-18-2024,6:00PM-8:30PM,FMH,411,Valoura,CIM,215
+101,Concrete Construction Methods,12-20-2024,6:00PM-8:30PM,CKB,114,Arocha,CIM,315
+101,Senior Project In Cim,12-19-2024,6:00PM-8:30PM,CKB,320,Mahgoub,CIM,410
+103,Structural Syst Construc,12-20-2024,6:00PM-8:30PM,FMH,108,Washington,CMT,332
+1,Intro to Com Media,12-20-2024,2:30PM-5:00PM,CKB,212,Snyder,COM,201
+1,Communication Special Topics,12-18-2024,8:30AM-11:00AM,FMH,313,Pan,COM,225
+3,Communication Special Topics,12-18-2024,8:30AM-11:00AM,FMH,313,Pan,COM,225
+1,Video Narative,12-17-2024,2:30PM-5:00PM,CKB,214,Klobucar,COM,303
+1,Interpersonal Communication,12-20-2024,11:30AM-2:00PM,CKB,222,Sun,COM,310
+1,ST:,12-19-2024,8:30AM-11:00AM,CKB,226,Sun,COM,325
+3,ST:,12-19-2024,8:30AM-11:00AM,CKB,313,Rutkoff,COM,325
+1,Photojournalism,12-16-2024,8:30AM-11:00AM,CKB,222,Johnson,COM,337
+1,Practical Journalism,12-16-2024,2:30PM-5:00PM,CKB,222,Ascarelli,COM,339
+1,Documentary Film and Media,12-18-2024,8:30AM-11:00AM,CKB,206,Rutkoff,COM,341
+101,Applied Visual Communication,12-18-2024,6:00PM-8:30PM,MALL,PC37,Carlson,COM,353
+1,Digital Media Futures,12-20-2024,2:30PM-5:00PM,CKB,226,Klobucar,COM,355
+1,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Spirollari,CS,100
+3,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Kaur,CS,100
+7,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Qerimaj,CS,100
+9,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Yusuf,CS,100
+11,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Kaur,CS,100
+13,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Kaur,CS,100
+15,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Qerimaj,CS,100
+19,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Islam,CS,100
+23,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Nemane,CS,100
+25,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Ayad,CS,100
+27,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Qerimaj,CS,100
+29,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Qerimaj,CS,100
+31,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Lay,CS,100
+33,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Yusuf,CS,100
+35,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Qerimaj,CS,100
+37,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Kaur,CS,100
+101,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Le,CS,100
+H01,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Spirollari,CS,100
+H03,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Islam,CS,100
+H05,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Dale,CS,100
+H07,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Spirollari,CS,100
+H09,Roadmap To Computing,12-21-2024,9:00AM-11:30AM,Please see instructor for location.,NULL,Renda,CS,100
+1,Comput Sci-Business Prob,12-20-2024,8:30AM-11:00AM,CKB,106,Pethkar,CS,103
+3,Comput Sci-Business Prob,12-20-2024,8:30AM-11:00AM,CKB,106,Pethkar,CS,103
+1,Intro to Computing,12-20-2024,8:30AM-11:00AM,WEST,LECT 1,Nemane,CS,106
+3,Intro to Computing,12-20-2024,8:30AM-11:00AM,WEST,LECT 1,Nemane,CS,106
+5,Intro to Computing,12-20-2024,8:30AM-11:00AM,WEST,LECT 1,Nemane,CS,106
+9,Intro to Computing,12-20-2024,8:30AM-11:00AM,WEST,LECT 1,Nemane,CS,106
+1,Intro Computer Sci I,12-21-2024,12:00PM-2:30PM,Please see instructor for location.,NULL,Spirollari,CS,113
+3,Intro Computer Sci I,12-21-2024,12:00PM-2:30PM,Please see instructor for location.,NULL,Spirollari,CS,113
+101,Intro Computer Sci I,12-21-2024,12:00PM-2:30PM,Please see instructor for location.,NULL,Soltis,CS,113
+103,Intro Computer Sci I,12-21-2024,12:00PM-2:30PM,Please see instructor for location.,NULL,Estes,CS,113
+105,Intro Computer Sci I,12-21-2024,12:00PM-2:30PM,Please see instructor for location.,NULL,Estes,CS,113
+1,Intro Computer Sci II,12-20-2024,2:30PM-5:00PM,KUPF,117,Kapleau,CS,114
+3,Intro Computer Sci II,12-20-2024,2:30PM-5:00PM,KUPF,117,Kapleau,CS,114
+5,Intro Computer Sci II,12-20-2024,2:30PM-5:00PM,KUPF,211,Kapleau,CS,114
+7,Intro Computer Sci II,12-16-2024,11:30AM-2:00PM,CULM,LECT 1,Calvin,CS,114
+9,Intro Computer Sci II,12-20-2024,2:30PM-5:00PM,KUPF,118,Kapleau,CS,114
+11,Intro Computer Sci II,12-20-2024,2:30PM-5:00PM,KUPF,118,Kapleau,CS,114
+13,Intro Computer Sci II,12-16-2024,11:30AM-2:00PM,GITC,1400,Zaidenberg,CS,114
+15,Intro Computer Sci II,12-16-2024,11:30AM-2:00PM,GITC,1400,Zaidenberg,CS,114
+H01,Intro Computer Sci II,12-20-2024,11:30AM-2:00PM,CULM,110,Kapleau,CS,114
+H03,Intro Computer Sci II,12-16-2024,11:30AM-2:00PM,CULM,LECT 1,Calvin,CS,114
+1,Intro to Comp Science I in C++,12-20-2024,8:30AM-11:00AM,CKB,217,Wu,CS,115
+3,Intro to Comp Science I in C++,12-20-2024,8:30AM-11:00AM,CKB,217,Wu,CS,115
+1,Intro To Comp Sci II C++,12-17-2024,11:30AM-2:00PM,ME,224,Wu,CS,116
+3,Intro To Comp Sci II C++,12-17-2024,11:30AM-2:00PM,ME,224,Wu,CS,116
+3,Foundations of Comp Science I,12-19-2024,11:30AM-2:00PM,GITC,1100,Zaidenberg,CS,241
+5,Foundations of Comp Science I,12-19-2024,11:30AM-2:00PM,GITC,1100,Zaidenberg,CS,241
+1,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,206,Arafeh,CS,280
+5,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,203,Arafeh,CS,280
+7,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,204,Arafeh,CS,280
+9,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,207,Arafeh,CS,280
+11,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,211,Arafeh,CS,280
+13,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,211,Arafeh,CS,280
+15,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,208,Arafeh,CS,280
+17,Programming Lang Concepts,12-16-2024,11:30AM-2:00PM,KUPF,202,Arafeh,CS,280
+101,Programming Lang Concepts,12-17-2024,6:00PM-8:30PM,KUPF,204,Haroon,CS,280
+1,Intensive Programming in Linux,12-16-2024,2:30PM-5:00PM,TIER,LECT 1,Itani,CS,288
+3,Intensive Programming in Linux,12-16-2024,2:30PM-5:00PM,TIER,LECT 1,Itani,CS,288
+5,Intensive Programming in Linux,12-16-2024,2:30PM-5:00PM,TIER,LECT 1,Itani,CS,288
+7,Intensive Programming in Linux,12-16-2024,11:30AM-2:00PM,CKB,303,Dale,CS,288
+9,Intensive Programming in Linux,12-16-2024,11:30AM-2:00PM,CKB,303,Dale,CS,288
+101,Intensive Programming in Linux,12-16-2024,6:00PM-8:30PM,TIER,LECT 2,Dale,CS,288
+103,Intensive Programming in Linux,12-16-2024,6:00PM-8:30PM,TIER,LECT 2,Dale,CS,288
+H01,Intensive Programming in Linux,12-16-2024,11:30AM-2:00PM,CKB,220,Ding,CS,288
+1,Introduction to Data Science,12-17-2024,2:30PM-5:00PM,GITC,1400,Renda,CS,301
+3,Introduction to Data Science,12-17-2024,2:30PM-5:00PM,GITC,1400,Renda,CS,301
+101,Introduction to Data Science,12-17-2024,6:00PM-8:30PM,GITC,1400,Islam,CS,301
+103,Introduction to Data Science,12-19-2024,6:00PM-8:30PM,KUPF,206,Islam,CS,301
+1,Database System Design & Mgmt,12-17-2024,11:30AM-2:00PM,KUPF,211,Yusuf,CS,331
+5,Database System Design & Mgmt,12-19-2024,2:30PM-5:00PM,KUPF,117,Renda,CS,331
+7,Database System Design & Mgmt,12-17-2024,11:30AM-2:00PM,GITC,1400,Eren,CS,331
+9,Database System Design & Mgmt,12-19-2024,2:30PM-5:00PM,KUPF,117,Renda,CS,331
+11,Database System Design & Mgmt,12-17-2024,11:30AM-2:00PM,KUPF,211,Yusuf,CS,331
+H01,Database System Design & Mgmt,12-18-2024,8:30AM-11:00AM,CKB,223,Sharma,CS,331
+5,Principles Of Oper Sys,12-19-2024,2:30PM-5:00PM,GITC,1100,Naik,CS,332
+7,Principles Of Oper Sys,12-19-2024,2:30PM-5:00PM,GITC,1100,Naik,CS,332
+101,Principles Of Oper Sys,12-17-2024,6:00PM-8:30PM,KUPF,107,Naik,CS,332
+103,Principles Of Oper Sys,12-18-2024,6:00PM-8:30PM,GITC,1100,Gerbessiotis,CS,332
+1,Performance Modeling in Comput,12-20-2024,8:30AM-11:00AM,ME,224,Calvin,CS,337
+3,Found of Computer Science II,12-17-2024,8:30AM-11:00AM,GITC,1100,Kair,CS,341
+5,Found of Computer Science II,12-17-2024,8:30AM-11:00AM,GITC,1100,Kair,CS,341
+1,Intro to Computer Systems,12-16-2024,8:30AM-11:00AM,WEST,LECT 2,Itani,CS,350
+3,Intro to Computer Systems,12-16-2024,8:30AM-11:00AM,WEST,LECT 2,Itani,CS,350
+5,Intro to Computer Systems,12-20-2024,11:30AM-2:00PM,TIER,LECT 1,Sohn,CS,350
+7,Intro to Computer Systems,12-19-2024,2:30PM-5:00PM,KUPF,106,Sohn,CS,350
+1,Introduction to Cybersecurity,12-20-2024,2:30PM-5:00PM,GITC,1400,Raza,CS,351
+3,Introduction to Cybersecurity,12-18-2024,11:30AM-2:00PM,CULM,LECT 2,Hamidli,CS,351
+5,Introduction to Cybersecurity,12-20-2024,2:30PM-5:00PM,GITC,1400,Raza,CS,351
+1,Intro To Computer Networks,12-18-2024,11:30AM-2:00PM,CKB,303,Raza,CS,356
+3,Intro To Computer Networks,12-18-2024,11:30AM-2:00PM,KUPF,209,Berenjian,CS,356
+103,Intro To Computer Networks,12-19-2024,6:00PM-8:30PM,TIER,LECT 1,Raza,CS,356
+101,Intro to Artifcl Intellgnce,12-16-2024,6:00PM-8:30PM,CKB,303,Monogioudis,CS,370
+H01,Intro to Artifcl Intellgnce,12-18-2024,6:00PM-8:30PM,KUPF,118,Monogioudis,CS,370
+H01,Intro To Machine Learning,12-19-2024,8:30AM-11:00AM,CKB,310,Wang,CS,375
+1,Cryptography & Internet Secrty,12-19-2024,2:30PM-5:00PM,CKB,314,Hamidli,CS,408
+1,Advanced Database Systems,12-17-2024,11:30AM-2:00PM,GITC,1400,Eren,CS,434
+3,Adv Data Struct-Alg Des,12-16-2024,2:30PM-5:00PM,CULM,LECT 2,Nassimi,CS,435
+5,Adv Data Struct-Alg Des,12-16-2024,2:30PM-5:00PM,CKB,303,Nassimi,CS,435
+101,Big Data Systems,12-16-2024,6:00PM-8:30PM,KUPF,209,Wu,CS,444
+101,Data Visualization,12-18-2024,6:00PM-8:30PM,CULM,LECT 2,Islam,CS,450
+101,Data Mining,12-19-2024,6:00PM-8:30PM,KUPF,202,Bakhshaliyev,CS,482
+7,Selected Topics In CS,12-17-2024,2:30PM-5:00PM,CKB,341,Malkin,CS,485
+1,Design in Software Engr,12-16-2024,11:30AM-2:00PM,GITC,1100,Kellogg,CS,490
+101,Computer Science Project,12-17-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,CS,491
+103,Computer Science Project,12-19-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,CS,491
+HM1,Computer Science Project,12-17-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,CS,491
+HM3,Computer Science Project,12-19-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,CS,491
+851,Found Computer Science,12-16-2024,6:00PM-8:30PM,Online,NULL,Kapoor,CS,506
+1,Data Structure & ALG,12-18-2024,8:30AM-11:00AM,GITC ,1100,Eskandari,CS,610
+3,Data Structure & ALG,12-17-2024,11:30AM-2:00PM,CKB,226,Gerbessiotis,CS,610
+853,Data Structure & ALG,12-17-2024,6:00PM-8:30PM,Online,NULL,Eskandari,CS,610
+101,Java Programming,12-19-2024,6:00PM-8:30PM,KUPF,117,Siddique,CS,602
+103,Java Programming,12-21-2024,9:00AM-11:30AM,CKB,124,Siddique,CS,602
+851,Java Programming,12-15-2024,6:00PM-8:30PM,Online,NULL,Siddique,CS,602
+101,Cryptography & Security,12-18-2024,6:00PM-8:30PM,Jersey City,NULL,Hamidli,CS,608
+1J1,Cryptography & Security,12-19-2024,6:00PM-8:30PM,CKB,204,Hamidli,CS,608
+851,Cryptography & Security,12-21-2024,6:00PM-8:30PM,Online,NULL,Hamidli,CS,608
+853,Cryptography & Security,12-21-2024,6:00PM-8:30PM,Online,NULL,Hamidli,CS,608
+1J1,Data Structure & ALG,12-19-2024,6:00PM-8:30PM,Jersey City,NULL,Eskandari,CS,610
+3,Operating Systems Design,12-19-2024,11:30AM-2:00PM,CKB,303,Lay,CS,630
+5,Operating Systems Design,12-19-2024,11:30AM-2:00PM,CKB,303,Lay,CS,630
+1J1,Operating Systems Design,12-20-2024,6:00PM-8:30PM,Jersey City,NULL,Naik,CS,630
+851,Operating Systems Design,12-16-2024,6:00PM-8:30PM,Online,NULL,Naik,CS,630
+853,Operating Systems Design,12-19-2024,6:00PM-8:30PM,Online,NULL,Lay,CS,630
+3,Data Mgt Systems Design,12-16-2024,8:30AM-11:00AM,CKB,320,Sharma,CS,631
+5,Data Mgt Systems Design,12-16-2024,2:30PM-5:00PM,CULM,LECT 3,Theodoratos,CS,631
+7,Data Mgt Systems Design,12-16-2024,2:30PM-5:00PM,CULM,LECT 3,Theodoratos,CS,631
+1,Adv Database Sys Design,12-17-2024,11:30AM-2:00PM,KUPF,209,Geller,CS,632
+101,Data Mining,12-19-2024,6:00PM-8:30PM,GITC,1100,Abduallah,CS,634
+853,Data Mining,12-19-2024,6:00PM-8:30PM,Online,NULL,Wang,CS,634
+101,Security & Privacy in Comp Sys,12-20-2024,6:00PM-8:30PM,FMH,213,Shi,CS,645
+1J1,Security & Privacy in Comp Sys,12-21-2024,3:00PM-5:30PM,Jersey City,NULL,Curtmola,CS,645
+851,Security & Privacy in Comp Sys,12-17-2024,6:00PM-8:30PM,,NULL,Hamidli,CS,645
+853,Security & Privacy in Comp Sys,12-21-2024,3:00PM-5:30PM,Online,NULL,Curtmola,CS,645
+1J1,Network Protocols Security,12-16-2024,6:00PM-8:30PM,Jersey City,NULL,Raza,CS,646
+851,Counter Hacking Techniques,12-21-2024,6:00PM-8:30PM,FMH,407,Martin,CS,647
+853,Counter Hacking Techniques,12-20-2024,6:00PM-8:30PM,CKB,214,Martin,CS,647
+3,Intrnet&Higher Layer Pro,12-18-2024,2:30PM-5:00PM,TIER,113,Berenjian,CS,656
+1,Artificial Intelligence,12-18-2024,11:30AM-2:00PM,TIER,113,Liu,CS,670
+3,Artificial Intelligence,12-18-2024,11:30AM-2:00PM,TIER,LECT 1,Kaur,CS,670
+851,Artificial Intelligence,12-18-2024,6:00PM-8:30PM,Online,NULL,Kaur,CS,670
+853,Artificial Intelligence,12-21-2024,3:00PM-5:30PM,Online,NULL,Kaur,CS,670
+855,Artificial Intelligence,12-17-2024,6:00PM-8:30PM,Online,NULL,Liu,CS,670
+101,Software Des & Prod Meth,12-18-2024,6:00PM-8:30PM,GITC,4402,Vaish,CS,673
+101,Software Project Management,12-18-2024,6:00PM-8:30PM,KUPF,211,Naik,CS,683
+1,Network Mgmt & Security,12-16-2024,8:30AM-11:00AM,CKB,207,Berenjian,CS,696
+851,Network Mgmt & Security,12-19-2024,6:00PM-8:30PM,Online,NULL,Berenjian,CS,696
+1,Fund and Prin of DS,12-18-2024,8:30AM-11:00AM,CULM,111,Bhavsar,DS,340
+3,Introduction to Big Data,12-16-2024,11:30AM-2:00PM,FMH,411,Wang,DS,644
+1,Data Analytics with R Program,12-16-2024,8:30AM-11:00AM,CKB,204,Li,DS,636
+101,Data Analytics with R Program,12-19-2024,6:00PM-8:30PM,KUPF,108,Bhavsar,DS,636
+103,Data Analytics with R Program,12-20-2024,6:00PM-8:30PM,ECEC,100,Bhavsar,DS,636
+105,Data Analytics with R Program,12-17-2024,6:00PM-8:30PM,FMH,108,Bhavsar,DS,636
+851,Data Analytics with R Program,12-21-2024,12:00PM-2:30PM,Online,NULL,Li,DS,636
+853,Data Analytics with R Program,12-21-2024,12:00PM-2:30PM,Online,NULL,Li,DS,636
+101,Python and Mathematics,12-19-2024,6:00PM-8:30PM,TIER,LECT 1,Li,DS,637
+1J1,Reinforcement Learning,12-18-2024,6:00PM-8:30PM,Jersey City,NULL,Li,DS,669
+1,Machine Learning,12-20-2024,11:30AM-2:00PM,WEST,LECT 1,Bakhshaliyev,DS,675
+3,Machine Learning,12-20-2024,11:30AM-2:00PM,WEST,LECT 1,Bakhshaliyev,DS,675
+5,Machine Learning,12-20-2024,11:30AM-2:00PM,WEST,LECT 1,Bakhshaliyev,DS,675
+101,Machine Learning,12-20-2024,6:00PM-8:30PM,CKB,217,Bakhshaliyev,DS,675
+851,Machine Learning,12-16-2024,6:00PM-8:30PM,Online,NULL,Houle,DS,675
+853,Machine Learning,12-21-2024,6:00PM-8:30PM,Online,NULL,Houle,DS,675
+855,Machine Learning,12-16-2024,6:00PM-8:30PM,Online,NULL,Houle,DS,675
+3,Deep Learning,12-19-2024,2:30PM-5:00PM,CULM,LECT 3,Phan,DS,677
+5,Deep Learning,12-19-2024,2:30PM-5:00PM,CULM,LECT 2,Xu,DS,677
+1J1,Natural Language Processing,12-17-2024,6:00PM-8:30PM,Jersey City,NULL,Du,DS,680
+1,Circuits & Systems I,12-19-2024,2:30PM-5:00PM,KUPF,210,Manzhura,ECE,231
+101,Circuits & Systems I,12-19-2024,6:00PM-8:30PM,ECEC,115,Manzhura,ECE,231
+HM1,Circuits & Systems I,12-19-2024,2:30PM-5:00PM,KUPF,210,Manzhura,ECE,231
+1,Circuits & Systems II,12-20-2024,8:30AM-11:00AM,ME,221,Taylor,ECE,232
+101,Circuits & Systems II,12-20-2024,6:00PM-8:30PM,ECEC,115,Balguvhar,ECE,232
+HM1,Circuits & Systems II,12-20-2024,8:30AM-11:00AM,ME,221,Taylor,ECE,232
+1,Digital Design,12-17-2024,8:30AM-11:00AM,KUPF,210,Savir,ECE,251
+3,Digital Design,12-17-2024,8:30AM-11:00AM,KUPF,210,Savir,ECE,251
+101,Digital Design,12-17-2024,6:00PM-8:30PM,ECEC,100,Yousef,ECE,251
+101,Microprocessors,12-18-2024,6:00PM-8:30PM,ECEC,100,Bhavnagarwala,ECE,252
+1,Electronic Circuits I,12-16-2024,2:30PM-5:00PM,CULM,110,Walker-Soler,ECE,271
+101,Electronic Circuits I,12-16-2024,6:00PM-8:30PM,FMH,207,Walker-Soler,ECE,271
+HM1,Electronic Circuits I,12-16-2024,2:30PM-5:00PM,CULM,110,Walker-Soler,ECE,271
+101,Random Signals and Noise,12-18-2024,6:00PM-8:30PM,KUPF,208,Akansu,ECE,321
+1,Signals & Systems,12-17-2024,8:30AM-11:00AM,CKB,223,Ge,ECE,333
+1,Energy Conversion,12-19-2024,2:30PM-5:00PM,KUPF,209,Raj,ECE,342
+1,Computer Arch & Organization,12-17-2024,8:30AM-11:00AM,KUPF,209,Carpinelli,ECE,353
+101,Electromag Fields,12-19-2024,6:00PM-8:30PM,CULM,110,Balguvhar,ECE,361
+101,Signal Transmission,12-16-2024,6:00PM-8:30PM,TIER,LECT 1,Grebel,ECE,368
+1,Electronic Circuits Design,12-20-2024,2:30PM-5:00PM,KUPF,105,Feknous,ECE,371
+HM1,Electronic Circuits Design,12-20-2024,2:30PM-5:00PM,KUPF,105,Feknous,ECE,371
+1,Introduction to Semiconductors,12-16-2024,2:30PM-5:00PM,CKB,212,Tsybeskov,ECE,375
+1,Applied Machine Learning,12-18-2024,11:30AM-2:00PM,CULM,LECT 1,Han,ECE,381
+1,Elec Engr Principles,12-17-2024,2:30PM-5:00PM,KUPF,117,Hubbi,ECE,405
+1,Elec Engr Principles,12-17-2024,2:30PM-5:00PM,KUPF,118,Hubbi,ECE,405
+1,Elec Engr Principles,12-17-2024,2:30PM-5:00PM,KUPF,211,Hubbi,ECE,405
+101,Digital Data Communication,12-19-2024,6:00PM-8:30PM,FMH,207,Kam,ECE,421
+1,Computer Comm Networks,12-17-2024,2:30PM-5:00PM,KUPF,204,Feknous,ECE,422
+1,Wireless Communication Systems,12-19-2024,2:30PM-5:00PM,CKB,341,Haimovich,ECE,425
+1,Intro to Feedback Control Syst,12-20-2024,2:30PM-5:00PM,CULM,110,Wang,ECE,431
+1,Power Systems,12-19-2024,8:30AM-11:00AM,CKB,212,Hubbi,ECE,442
+101,Power Systems Laboratory,12-18-2024,6:00PM-8:30PM,FMH,109,Raj,ECE,449
+1,Advanced Computer Architecture,12-16-2024,2:30PM-5:00PM,KUPF,207,Angizi,ECE,451
+101,Intro Discrete Event Sys,12-17-2024,6:00PM-8:30PM,FMH,408,Guo,ECE,453
+1,High-Speed Electronic Devices,12-19-2024,2:30PM-5:00PM,FMH,404,Grebel,ECE,461
+1,Comp Engineer Design Lab,12-16-2024,8:30AM-11:00AM,KUPF,106,Hou,ECE,495
+3,Comp Engineer Design Lab,12-16-2024,8:30AM-11:00AM,KUPF,106,Hou,ECE,495
+101,Linear Systems,12-16-2024,6:00PM-8:30PM,FMH,110,Ghosh,ECE,601
+101,Power Syst Steady State Anlys,12-17-2024,6:00PM-8:30PM,CKB,106,Hubbi,ECE,610
+101,Intelligent Sensing for Smart,12-18-2024,6:00PM-8:30PM,FMH,407,Pong,ECE,619
+1,Lab for High Performance DSP,12-17-2024,2:30PM-5:00PM,FMH,305,Akansu,ECE,641
+1,Wireless Communications,12-19-2024,2:30PM-5:00PM,CKB,341,Haimovich,ECE,644
+101,Semiconductor  Devices,12-18-2024,6:00PM-8:30PM,FMH,321,Ko,ECE,657
+101,VLSI Design I,12-19-2024,6:00PM-8:30PM,FMH,407,Misra,ECE,658
+101,Random Signal Analysis,12-20-2024,6:00PM-8:30PM,KUPF,209,Abdi,ECE,673
+101,Cloud IoT Network & Security,12-19-2024,6:00PM-8:30PM,CULM,LECT 3,Khreishah,ECE,683
+101,Adv Microprocessor Systems,12-20-2024,6:00PM-8:30PM,CKB,313,Walker-Soler,ECE,684
+103,ST:,12-19-2024,6:00PM-8:30PM,FMH,307,Liu,ECE,788
+1,Circuits I,12-17-2024,11:30AM-2:00PM,FMH,405,Reaves,ECET,201
+3,Circuits I,12-17-2024,11:30AM-2:00PM,CKB,310,Shekhar,ECET,201
+101,Circuits I,12-20-2024,6:00PM-8:30PM,FMH,204A,Ghrayeb,ECET,201
+1,Circuits II,12-16-2024,2:30PM-5:00PM,CKB,207,Kayzman,ECET,202
+101,Circuits II,12-19-2024,6:00PM-8:30PM,FMH,314,Vincent,ECET,202
+101,Analog Electronics,12-19-2024,6:00PM-8:30PM,FMH,403,Park,ECET,205
+101,Intro to Communication Systems,12-18-2024,6:00PM-8:30PM,FMH,106,Pepe,ECET,214
+103,Intro to Communication Systems,12-16-2024,6:00PM-8:30PM,FMH,403,Rabie,ECET,214
+1,Intro To Digital Electronics,12-20-2024,11:30AM-2:00PM,FMH,405,Rabie,ECET,215
+101,Intro To Digital Electronics,12-19-2024,6:00PM-8:30PM,FMH,203,Ghrayeb,ECET,215
+451,Circuit Analysis,12-21-2024,3:00PM-5:30PM,Online,NULL,Rockland,ECET,300
+101,Circuit Measurements I,12-18-2024,6:00PM-8:30PM,FMH,403,Rabie,ECET,303
+3,Integrated Circuit Applctns,12-18-2024,11:30AM-2:00PM,CKB,207,Rabie,ECET,305
+101,Integrated Circuit Applctns,12-17-2024,6:00PM-8:30PM,FMH,403,Rabie,ECET,305
+101,Embedded Systems I,12-16-2024,6:00PM-8:30PM,GITC,1404,Awad,ECET,311
+103,Embedded Systems I,12-16-2024,6:00PM-8:30PM,GITC,2308,Otaryan,ECET,311
+1,Analog Digital Elect Non Maj,12-16-2024,8:30AM-11:00AM,CKB,215,De La Cruz,ECET,329
+101,Analog Digital Elect Non Maj,12-19-2024,6:00PM-8:30PM,FMH,404,De La Cruz,ECET,329
+1,Numerical Comp Engr Tech,12-18-2024,2:30PM-5:00PM,CKB,310,Amboise,ECET,344
+101,Numerical Comp Engr Tech,12-19-2024,6:00PM-8:30PM,GITC,2308,Amboise,ECET,344
+102,Computrzed Industrl Controls,12-19-2024,6:00PM-8:30PM,GITC,2310,Vanderbilt,ECET,350
+101,Digital Logic & Circuit Design,12-20-2024,6:00PM-8:30PM,CKB,226,Bokhari,ECET,365
+101,Senior Project,12-16-2024,6:00PM-8:30PM,FMH,411,Blinder,ECET,400
+101,Embedded Systems II,12-18-2024,6:00PM-8:30PM,GITC,2308,Azizi,ECET,411
+101,Power Generation & Distrbtn,12-17-2024,6:00PM-8:30PM,FMH,404,Vincent,ECET,412
+101,Fund of Network Communication,12-17-2024,6:00PM-8:30PM,GITC,2308,Vanderbilt,ECET,415
+1,Electronics Manufacturing,12-19-2024,2:30PM-5:00PM,CKB,220,Hansis,ECET,430
+1,Economics,12-18-2024,11:30AM-2:00PM,TIER,LECT 2,Bonitsis,ECON,201
+3,Economics,12-18-2024,11:30AM-2:00PM,TIER,LECT 2,Bonitsis,ECON,201
+101,Economics,12-16-2024,6:00PM-8:30PM,GITC,1100,Bonitsis,ECON,201
+103,Economics,12-16-2024,6:00PM-8:30PM,GITC,1100,Bonitsis,ECON,201
+451,Economics,12-21-2024,6:00PM-8:30PM,Online,NULL,Bonitsis,ECON,201
+453,Economics,12-21-2024,12:00PM-2:30PM,Online,NULL,Chou,ECON,201
+1,Microeconomics,12-17-2024,2:30PM-5:00PM,TIER,111,Chou,ECON,265
+451,Microeconomics,12-21-2024,9:00AM-11:30AM,Online,NULL,Chou,ECON,265
+453,Microeconomics,12-18-2024,6:00PM-8:30PM,Online,NULL,Bataille,ECON,265
+455,Microeconomics,12-17-2024,6:00PM-8:30PM,Online,NULL,Chou,ECON,265
+101,Macroeconomics,12-18-2024,6:00PM-8:30PM,KUPF,104,Chou,ECON,266
+451,Macroeconomics,12-20-2024,6:00PM-8:30PM,Online,NULL,Bataille,ECON,266
+101,Management Science,12-19-2024,6:00PM-8:30PM,ME,221,Abdel-Malek,EM,602
+101,Legal Aspcts Of Hlt Sfty,12-17-2024,6:00PM-8:30PM,CKB,317,Kothari,EM,633
+101,Project Management,12-18-2024,6:00PM-8:30PM,KUPF,117,Zoppi,EM,636
+103,Project Management,12-18-2024,6:00PM-8:30PM,KUPF,117,Zoppi,EM,636
+1,Intro To Environmental Engr,12-16-2024,2:30PM-5:00PM,CULM,111,Schorr,ENE,262
+101,Intro To Environmental Engr,12-17-2024,6:00PM-8:30PM,CULM,111,Zhang,ENE,262
+101,Water & Wastewater Engineering,12-18-2024,6:00PM-8:30PM,CKB,126,Venkatesan,ENE,360
+851,Site Remediation,12-21-2024,6:00PM-8:30PM,Online,NULL,Coler,ENE,662
+101,Phys & Chem Treatment,12-16-2024,6:00PM-8:30PM,CULM,LECT 3,Pennock,ENE,664
+101,Stormwater Management,12-18-2024,6:00PM-8:30PM,CKB,214,Boufadel,ENE,672
+1,Analytical Meth for Engr Appl,12-20-2024,8:30AM-11:00AM,GITC,1400,Lubliner,ENGR,101
+3,Analytical Meth for Engr Appl,12-20-2024,8:30AM-11:00AM,GITC,1400,Lubliner,ENGR,101
+5,Analytical Meth for Engr Appl,12-20-2024,8:30AM-11:00AM,GITC,1400,Lubliner,ENGR,101
+9,Analytical Meth for Engr Appl,12-20-2024,8:30AM-11:00AM,GITC,1400,Lubliner,ENGR,101
+101,Prototyping Essentials,12-17-2024,6:00PM-8:30PM,GITC,1404,Brateris,ENGR,320
+103,Prototyping Essentials,12-19-2024,6:00PM-8:30PM,GITC,1404,Sosa,ENGR,320
+103,Appl of Microcontrollers & IoT,12-16-2024,6:00PM-8:30PM,MALL,PC36,Patel,ENGR,330
+101,IP for Engineers,12-17-2024,6:00PM-8:30PM,MALL,PC40,Canonaco,ENGR,350
+1,Intro to Entrepreneurship,12-16-2024,8:30AM-11:00AM,CKB,314,Zhang,ENTR,210
+101,Intro to Entrepreneurship,12-17-2024,6:00PM-8:30PM,KUPF,105,Zhang,ENTR,210
+451,Intro to Entrepreneurship,12-21-2024,6:00PM-8:30PM,Online,NULL,Zhang,ENTR,210
+453,Intro to Entrepreneurship,12-21-2024,12:00PM-2:30PM,Online,NULL,Madda,ENTR,210
+101,Society Techn & Environmnt,12-17-2024,6:00PM-8:30PM,KUPF,209,Shrestha,EPS,202
+451,Society Techn & Environmnt,12-18-2024,6:00PM-8:30PM,Online,NULL,Bonchonsky,EPS,202
+HM1,Society Techn & Environmnt,12-17-2024,6:00PM-8:30PM,KUPF,209,Shrestha,EPS,202
+1,Environmental Law,12-18-2024,11:30AM-2:00PM,CKB,114,Bonchonsky,EVSC,335
+1,Environmental Microbiology,12-20-2024,2:30PM-5:00PM,TIER,106,Li,EVSC,385
+101,Environmental Analysis,12-16-2024,6:00PM-8:30PM,TIER,205,Eshun,EVSC,484
+101,Environmental Chemical Science,12-19-2024,6:00PM-8:30PM,GITC,2315A,Zhang,EVSC,610
+101,Environmental Analysis,12-16-2024,6:00PM-8:30PM,TIER,205,Eshun,EVSC,612
+101,Toxicology,12-18-2024,6:00PM-8:30PM,FMH,205,Warner,EVSC,616
+101,Environmental Microbiology,12-17-2024,6:00PM-8:30PM,TIER,114,Li,EVSC,627
+HM1,Fundamentals of Engr Design,12-17-2024,11:30AM-2:00PM,GITC,2305,Moon,FED,101
+HS1,Fundamentals of Engr Design,12-21-2024,9:00AM-11:30AM,CKB,106,Jaiswal,FED,101
+N41,Fundamentals of Engr Design,12-17-2024,11:30AM-2:00PM,GITC,2305,Moon,FED,101
+N43,Fundamentals of Engr Design,12-17-2024,8:30AM-11:00AM,MALL,PC37,Mani,FED,101
+N45,Fundamentals of Engr Design,12-17-2024,8:30AM-11:00AM,MALL,PC36,Mani,FED,101
+N47,Fundamentals of Engr Design,12-17-2024,8:30AM-11:00AM,MALL,PC39,Mani,FED,101
+N49,Fundamentals of Engr Design,12-17-2024,11:30AM-2:00PM,GITC,2302,Moon,FED,101
+N51,Fundamentals of Engr Design,12-17-2024,11:30AM-2:00PM,GITC,2315C,Moon,FED,101
+1,Financl Markets & Institutions,12-19-2024,8:30AM-11:00AM,KUPF,209,Li,FIN,218
+101,Financl Markets & Institutions,12-18-2024,7:30PM-8:50PM,KUPF,104,Hammond,FIN,218
+HM1,Financl Markets & Institutions,12-19-2024,8:30AM-11:00AM,KUPF,209,Li,FIN,218
+1,Data-Driven Financial Modeling,12-17-2024,8:30AM-11:00AM,FMH,408,Chang,FIN,310
+1,Fund Of Corporate Finance,12-19-2024,8:30AM-11:00AM,FMH,408,Fox,FIN,315
+101,Fund Of Corporate Finance,12-16-2024,6:00PM-8:30PM,CULM,LECT 1,DeSanto,FIN,315
+451,Fund Of Corporate Finance,12-21-2024,6:00PM-8:30PM,Online,NULL,DeSanto,FIN,315
+453,Fund Of Corporate Finance,12-21-2024,6:00PM-8:30PM,Online,NULL,Domasky,FIN,315
+HM1,Fund Of Corporate Finance,12-19-2024,8:30AM-11:00AM,FMH,408,Fox,FIN,315
+1,Fin Data Analytics,12-16-2024,8:30AM-11:00AM,KUPF,206,Liu,FIN,320
+1,Financial Statement Analysis,12-16-2024,11:30AM-2:00PM,CKB,212,Tamke,FIN,403
+1,Data Mining & Machine Learning,12-18-2024,2:30PM-5:00PM,CKB,114,Yu,FIN,410
+101,International Finance,12-18-2024,6:00PM-8:30PM,KUPF,203,Domasky,FIN,422
+1,Corporate Finance I,12-17-2024,2:30PM-5:00PM,KUPF,205,Ehrlich,FIN,600
+101,Corporate Finance I,12-19-2024,6:00PM-8:30PM,KUPF,208,Tao,FIN,600
+853,Corporate Finance I,12-17-2024,6:00PM-8:30PM,Online,NULL,Hammond,FIN,600
+855,Corporate Finance I,12-16-2024,6:00PM-8:30PM,Online,NULL,Tao,FIN,600
+101,Data Driven Financial Modeling,12-18-2024,6:00PM-8:30PM,CAB,2020,Xu,FIN,616
+851,Corporate Finance II,12-18-2024,6:00PM-8:30PM,Online,NULL,Goodwin,FIN,624
+101,Derivatives Markets,12-16-2024,6:00PM-8:30PM,KUPF,103,Liu,FIN,641
+851,Investmnt Analysis & Portfolio,12-20-2024,6:00PM-8:30PM,Online,NULL,Goodwin,FIN,650
+1,Intro to Forensic Science,12-17-2024,11:30AM-2:00PM,TIER,107,Fisher,FRSC,201
+3,Intro to Forensic Science,12-17-2024,11:30AM-2:00PM,CULM,110,Parmelee,FRSC,201
+5,Intro to Forensic Science,12-17-2024,11:30AM-2:00PM,TIER,106,Casado Zapico,FRSC,201
+1,Phys Methods of Forensics &Lab,12-16-2024,8:30AM-11:00AM,CKB,114,Parmelee,FRSC,359
+3,Phys Methods of Forensics &Lab,12-16-2024,8:30AM-11:00AM,CKB,114,Parmelee,FRSC,359
+1,Forensic Chemistry & Lab,12-18-2024,2:30PM-5:00PM,FMH,403,Chen,FRSC,475
+101,Special Topics in Forensic Sci,12-16-2024,6:00PM-8:30PM,FMH,314,Epstein,FRSC,498
+103,Special Topics in Forensic Sci,12-17-2024,6:00PM-8:30PM,CKB,114,Osborn,FRSC,498
+5,The Twentieth-Century World,12-17-2024,11:30AM-2:00PM,ME,221,Kent,HIST,213
+9,The Twentieth-Century World,12-17-2024,11:30AM-2:00PM,ME,221,Kent,HIST,213
+HM1,The Twentieth-Century World,12-17-2024,11:30AM-2:00PM,ME,221,Kent,HIST,213
+1,Organizational Behavior,12-19-2024,2:30PM-5:00PM,CKB,217,Schachter,HRM,301
+3,Organizational Behavior,12-19-2024,2:30PM-5:00PM,CKB,217,Schachter,HRM,301
+1,Org Behavior in Tech Orgs,12-19-2024,2:30PM-5:00PM,CKB,207,Somers,HRM,601
+851,Org Behavior in Tech Orgs,12-20-2024,6:00PM-8:30PM,Online,NULL,Somers,HRM,601
+855,Org Behavior in Tech Orgs,12-21-2024,6:00PM-8:30PM,Online,NULL,Manyindo,HRM,601
+857,Org Behavior in Tech Orgs,12-19-2024,6:00PM-8:30PM,Online,NULL,Somers,HRM,601
+1,Engr Eco & Cptl Inv Anal,12-20-2024,2:30PM-5:00PM,GITC,2305,Bengu,IE,334
+1,Engr Cost Anal & Control,12-16-2024,2:30PM-5:00PM,GITC,2305,Bladikas,IE,335
+101,Work Measurement and Standards,12-17-2024,6:00PM-8:30PM,GITC,2311,Tovar,IE,339
+101,Human Factors In IE,12-16-2024,6:00PM-8:30PM,ME,224,Kothari,IE,355
+101,Deterministic Mod in Oper Resr,12-20-2024,6:00PM-8:30PM,GITC,2305,Shen,IE,439
+1,Info & Know Engr Systems,12-16-2024,8:30AM-11:00AM,GITC,2315C,Park,IE,441
+1,Robotics & Prog Logic Control,12-19-2024,2:30PM-5:00PM,GITC,2310,Aristilde,IE,455
+101,Product Quality Assurance,12-18-2024,6:00PM-8:30PM,GITC,2311,Abdou,IE,461
+101,Engineering Management,12-20-2024,6:00PM-8:30PM,CKB,223,Desai,IE,492
+103,Engineering Management,12-17-2024,6:00PM-8:30PM,ME,221,Abdou,IE,492
+H01,Engineering Management,12-17-2024,2:30PM-5:00PM,FMH,319,Desai,IE,492
+101,Advanced Engineerng Stat,12-19-2024,6:00PM-8:30PM,GITC,2305,Bengu,IE,604
+101,Engr Cost & Produc Econo,12-20-2024,6:00PM-8:30PM,CKB,317,Naraine,IE,618
+101,Syst Analysis & Simulatn,12-16-2024,6:00PM-8:30PM,GITC,2305,Bengu,IE,621
+103,Adv Topics Oper Res,12-17-2024,6:00PM-8:30PM,FMH,313,Ikhmeis,IE,650
+101,Supply Chain Engineering,12-19-2024,6:00PM-8:30PM,KUPF,106,Das,IE,659
+101,Applied Industrial Ergonomics,12-16-2024,6:00PM-8:30PM,FMH,106,Yin,IE,665
+1,Methods and Materials,12-16-2024,2:30PM-5:00PM,CKB,320,Brothers,INT,321
+101,History of Furniture,12-17-2024,6:00PM-8:30PM,WEST,210,Kogle,INT,350
+1,Intro to Website Development,12-17-2024,11:30AM-2:00PM,KUPF,210,Chiusano,IS,117
+3,Intro to Website Development,12-17-2024,11:30AM-2:00PM,WEST,LECT 2,Hendela,IS,117
+5,Intro to Website Development,12-17-2024,11:30AM-2:00PM,KUPF,210,Chiusano,IS,117
+7,Intro to Website Development,12-17-2024,11:30AM-2:00PM,FMH,407,Williams,IS,117
+1,Building Web Applications,12-18-2024,8:30AM-11:00AM,CKB,317,Wang,IS,218
+3,Building Web Applications,12-18-2024,8:30AM-11:00AM,CULM,110,Williams,IS,218
+1,Designing the User Experience,12-20-2024,8:30AM-11:00AM,WEST,LECT 2,Spryszynski,IS,247
+3,Designing the User Experience,12-20-2024,8:30AM-11:00AM,ECEC,115,Lee,IS,247
+5,Designing the User Experience,12-20-2024,8:30AM-11:00AM,KUPF,202,Dang,IS,247
+101,Designing the User Experience,12-17-2024,6:00PM-8:30PM,CKB,G-08,Ohshiro,IS,247
+H01,Design Thinking,12-16-2024,8:30AM-11:00AM,FMH,405,Lee,IS,257
+1,Intro to Information Systems,12-16-2024,8:30AM-11:00AM,FMH,408,Chiusano,IS,265
+101,Intro to Information Systems,12-19-2024,6:00PM-8:30PM,CKB,223,Chiusano,IS,265
+103,Intro to Information Systems,12-16-2024,6:00PM-8:30PM,CKB,317,Arroyo,IS,265
+1,"Database Design, Mgmt & Appl",12-19-2024,11:30AM-2:00PM,KUPF,210,Hendela,IS,331
+3,"Database Design, Mgmt & Appl",12-19-2024,11:30AM-2:00PM,KUPF,210,Hendela,IS,331
+5,"Database Design, Mgmt & Appl",12-19-2024,11:30AM-2:00PM,FMH,405,Chiusano,IS,331
+451,"Database Design, Mgmt & Appl",12-21-2024,3:00PM-5:30PM,Online,NULL,Markson,IS,331
+453,"Database Design, Mgmt & Appl",12-21-2024,12:00PM-2:30PM,Online,NULL,Hendela,IS,331
+1,Social Network Analysis,12-19-2024,8:30AM-11:00AM,CKB,114,Tran,IS,333
+1,Computing Applications in Bus,12-18-2024,2:30PM-5:00PM,KUPF,207,Ullman,IS,344
+3,Computing Applications in Bus,12-18-2024,2:30PM-5:00PM,KUPF,207,Ullman,IS,344
+1,"Computers, Society and Ethics",12-20-2024,8:30AM-11:00AM,KUPF,106,Kaplan,IS,350
+3,"Computers, Society and Ethics",12-20-2024,8:30AM-11:00AM,KUPF,205,Chiusano,IS,350
+101,"Computers, Society and Ethics",12-19-2024,6:00PM-8:30PM,KUPF,118,Will,IS,350
+103,"Computers, Society and Ethics",12-17-2024,6:00PM-8:30PM,FMH,110,Will,IS,350
+451,"Computers, Society and Ethics",12-21-2024,9:00AM-11:30AM,Online,NULL,Deek,IS,350
+453,"Computers, Society and Ethics",12-19-2024,6:00PM-8:30PM,Online,NULL,Teran,IS,350
+455,"Computers, Society and Ethics",12-21-2024,9:00AM-11:30AM,Online,NULL,Teran,IS,350
+457,"Computers, Society and Ethics",12-20-2024,6:00PM-8:30PM,Online,NULL,Egan,IS,350
+459,"Computers, Society and Ethics",12-20-2024,6:00PM-8:30PM,Online,NULL,Egan,IS,350
+461,"Computers, Society and Ethics",12-21-2024,6:00PM-8:30PM,Online,NULL,Egan,IS,350
+463,"Computers, Society and Ethics",12-20-2024,6:00PM-8:30PM,Online,NULL,Markulic,IS,350
+465,"Computers, Society and Ethics",12-21-2024,9:00AM-11:30AM,Online,NULL,Egan,IS,350
+467,"Computers, Society and Ethics",12-21-2024,6:00PM-8:30PM,Online,NULL,Egan,IS,350
+469,"Computers, Society and Ethics",12-21-2024,3:00PM-5:30PM,Online,NULL,Will,IS,350
+1,Content Management Systems,12-17-2024,2:30PM-5:00PM,TIER,105,Williams,IS,373
+1,Discovering User Needs for UX,12-16-2024,2:30PM-5:00PM,CKB,204,Spryszynski,IS,375
+3,Discovering User Needs for UX,12-16-2024,2:30PM-5:00PM,CKB,204,Spryszynski,IS,375
+101,Discovering User Needs for UX,12-19-2024,6:00PM-8:30PM,CKB,G-08,Spryszynski,IS,375
+1,Analysis & System Design,12-20-2024,11:30AM-2:00PM,TIER,114,Licciardello,IS,390
+451,Analysis & System Design,12-21-2024,9:00AM-11:30AM,Online,NULL,Licciardello,IS,390
+451,Web Mining & Infor Retrieval,12-16-2024,6:00PM-8:30PM,Online,NULL,Markson,IS,392
+1,Usability & Measuring UX,12-20-2024,2:30PM-5:00PM,KUPF,207,Ohshiro,IS,448
+1,IS Mgmt & Business Processes,12-16-2024,11:30AM-2:00PM,CKB,126,Egan,IS,455
+1,Advanced Information Systems,12-19-2024,2:30PM-5:00PM,CKB,310,Cartwright,IS,465
+3,Special Topics in IS - I,12-17-2024,2:30PM-5:00PM,CKB,341,Malkin,IS,485
+3,Web Systems Development,12-16-2024,8:30AM-11:00AM,KUPF,103,Toegel,IS,601
+7,Web Systems Development,12-16-2024,8:30AM-11:00AM,KUPF,205,Licciardello,IS,601
+9,Web Systems Development,12-16-2024,8:30AM-11:00AM,FMH,319,Williams,IS,601
+101,Web Systems Development,12-17-2024,6:00PM-8:30PM,CKB,315,Suero,IS,601
+103,Web Systems Development,12-19-2024,6:00PM-8:30PM,CKB,315,Suero,IS,601
+1J1,Web Systems Development,12-20-2024,6:00PM-8:30PM,Jersey City,NULL,Tolboom,IS,601
+851,Web Systems Development,12-21-2024,6:00PM-8:30PM,Online,NULL,Williams,IS,601
+853,Web Systems Development,12-18-2024,6:00PM-8:30PM,Online,NULL,Williams,IS,601
+855,Web Systems Development,12-17-2024,6:00PM-8:30PM,Online,NULL,Licciardello,IS,601
+101,Enterprise Database Management,12-19-2024,6:00PM-8:30PM,FMH,306,Markulic,IS,631
+851,Enterprise Database Management,12-17-2024,6:00PM-8:30PM,Online,NULL,Markulic,IS,631
+1,User Experience Design,12-17-2024,8:30AM-11:00AM,CULM,110,Ohshiro,IS,661
+851,User Experience Design,12-21-2024,6:00PM-8:30PM,Online,NULL,Lee,IS,661
+101,System Analysis and Design,12-18-2024,6:00PM-8:30PM,CKB,320,Kirova,IS,663
+851,System Analysis and Design,12-20-2024,6:00PM-8:30PM,Online,NULL,Sabet,IS,663
+1,Customer Discovery,12-19-2024,2:30PM-5:00PM,FMH,206,Wohn,IS,664
+1,Data Analytics for Info System,12-17-2024,2:30PM-5:00PM,FMH,314,Ohshiro,IS,665
+1J1,Data Analytics for Info System,12-17-2024,6:00PM-8:30PM,Jersey City,NULL,Lin,IS,665
+851,Data Analytics for Info System,12-18-2024,6:00PM-8:30PM,Online,NULL,Lin,IS,665
+1,Information System Principles,12-19-2024,2:30PM-5:00PM,FMH,314,Licciardello,IS,677
+101,Information System Principles,12-20-2024,6:00PM-8:30PM,CKB,330,Licciardello,IS,677
+851,Information Systems Auditing,12-21-2024,3:00PM-5:30PM,Online,NULL,Pak,IS,680
+853,Information Systems Auditing,12-21-2024,6:00PM-8:30PM,Online,NULL,Pak,IS,680
+855,Information Systems Auditing,12-17-2024,6:00PM-8:30PM,Online,NULL,Pak,IS,680
+1,Business Process Innovation,12-20-2024,2:30PM-5:00PM,FMH,321,Ullman,IS,684
+851,Business Process Innovation,12-21-2024,9:00AM-11:30AM,Online,NULL,Ullman,IS,684
+851,Enterprise Arch & Integration,12-20-2024,6:00PM-8:30PM,Online,NULL,Casarella,IS,685
+1,Web Mining,12-19-2024,11:30AM-2:00PM,CKB,220,Lin,IS,688
+1,Intro To Informtn Technolgy,12-20-2024,2:30PM-5:00PM,WEST,LECT 2,Chiusano,IT,101
+3,Intro To Informtn Technolgy,12-20-2024,2:30PM-5:00PM,KUPF,210,Watrous-deVersterre,IT,101
+5,Intro To Informtn Technolgy,12-20-2024,2:30PM-5:00PM,KUPF,210,Watrous-deVersterre,IT,101
+9,Intro To Informtn Technolgy,12-20-2024,2:30PM-5:00PM,ECEC,115,Giannoglou,IT,101
+101,Intro To Informtn Technolgy,12-16-2024,6:00PM-8:30PM,CKB,330,Nazzaro,IT,101
+105,Intro To Informtn Technolgy,12-17-2024,6:00PM-8:30PM,KUPF,202,Nazzaro,IT,101
+1,Adv Program for Infor Tech,12-19-2024,2:30PM-5:00PM,CKB,206,Halper,IT,114
+3,Adv Program for Infor Tech,12-19-2024,2:30PM-5:00PM,GITC,1400,Toegel,IT,114
+5,Adv Program for Infor Tech,12-19-2024,2:30PM-5:00PM,GITC,1400,Toegel,IT,114
+1,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,CKB,206,Watrous-deVersterre,IT,120
+3,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,FMH,407,Farley,IT,120
+3,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,FMH,405,Farley,IT,120
+3,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,FMH,404,Farley,IT,120
+5,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,CKB,215,Banduk,IT,120
+7,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,FMH,407,Farley,IT,120
+7,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,FMH,405,Farley,IT,120
+7,Intro To Networking Technology,12-16-2024,2:30PM-5:00PM,FMH,404,Farley,IT,120
+101,Intro To Networking Technology,12-16-2024,6:00PM-8:30PM,GITC,1202,Apostolyuk,IT,120
+103,Intro To Networking Technology,12-17-2024,6:00PM-8:30PM,GITC,1202,Martino,IT,120
+1,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 1,Sequeira,IT,201
+3,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 1,Sequeira,IT,201
+7,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 1,Sequeira,IT,201
+9,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 1,Sequeira,IT,201
+13,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 2,Nersesian,IT,201
+15,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 2,Nersesian,IT,201
+17,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 2,Nersesian,IT,201
+19,Information Design Techniques,12-17-2024,8:30AM-11:00AM,ME,221,Daher,IT,201
+21,Information Design Techniques,12-17-2024,8:30AM-11:00AM,ME,221,Daher,IT,201
+23,Information Design Techniques,12-17-2024,8:30AM-11:00AM,CKB,114,Talukdar,IT,201
+25,Information Design Techniques,12-17-2024,8:30AM-11:00AM,TIER,LECT 2,Nersesian,IT,201
+1,Internet Applications,12-19-2024,8:30AM-11:00AM,TIER,LECT 1,Vohra,IT,202
+3,Internet Applications,12-19-2024,8:30AM-11:00AM,TIER,LECT 1,Vohra,IT,202
+5,Internet Applications,12-19-2024,8:30AM-11:00AM,TIER,LECT 1,Vohra,IT,202
+7,Internet Applications,12-19-2024,8:30AM-11:00AM,WEST,LECT 2,Toegel,IT,202
+101,Internet Applications,12-18-2024,6:00PM-8:30PM,CKB,330,Rendon,IT,202
+103,Internet Applications,12-19-2024,6:00PM-8:30PM,CKB,317,Rendon,IT,202
+451,Internet Applications,12-15-2024,1:00PM-2:30PM,Online,NULL,Deek,IT,202
+453,Internet Applications,12-15-2024,1:00PM-2:30PM,Online,NULL,Deek,IT,202
+455,Internet Applications,12-15-2024,1:00PM-2:30PM,Online,NULL,Deek,IT,202
+457,Internet Applications,12-15-2024,1:00PM-2:30PM,Online,NULL,Deek,IT,202
+1,Wireless Networks,12-18-2024,8:30AM-11:00AM,TIER,105,Patel,IT,220
+3,Wireless Networks,12-18-2024,8:30AM-11:00AM,WEST,LECT 2,Statica,IT,220
+101,Wireless Networks,12-16-2024,6:00PM-8:30PM,FMH,413,Martino,IT,220
+1,Computer Systems Security,12-17-2024,2:30PM-5:00PM,CULM,LECT 1,Tolboom,IT,230
+101,Computer Systems Security,12-18-2024,6:00PM-8:30PM,CKB,317,Giannoglou,IT,230
+451,Scripting for System Admin,12-21-2024,12:00PM-2:30PM,Online,NULL,Vohra,IT,240
+1,Game Architecture and Design,12-17-2024,2:30PM-5:00PM,CKB,314,Nersesian,IT,265
+3,Game Mod Development,12-16-2024,8:30AM-11:00AM,TIER,114,Kehoe,IT,266
+101,3D Modeling and Animation,12-17-2024,6:00PM-8:30PM,GITC,3200,Kehoe,IT,270
+1,Foundations of Game Production,12-20-2024,8:30AM-11:00AM,FMH,405,Truesdell,IT,286
+451,Advanced Internet Applications,12-21-2024,3:00PM-5:30PM,Online,NULL,Vohra,IT,302
+1,E-Commerce Technology,12-16-2024,11:30AM-2:00PM,KUPF,117,Patel,IT,310
+3,E-Commerce Technology,12-16-2024,11:30AM-2:00PM,KUPF,117,Patel,IT,310
+5,E-Commerce Technology,12-16-2024,11:30AM-2:00PM,WEST,LECT 2,Statica,IT,310
+451,E-Commerce Technology,12-20-2024,6:00PM-8:30PM,Online,NULL,Statica,IT,310
+453,E-Commerce Technology,12-21-2024,6:00PM-8:30PM,Online,NULL,Statica,IT,310
+HM1,E-Commerce Technology,12-16-2024,11:30AM-2:00PM,WEST,LECT 2,Statica,IT,310
+101,Computer Forensic,12-21-2024,10:30AM-11:50AM,CKB,317,Statica,IT,330
+101,Privacy & Informtn Technlgy,12-16-2024,6:00PM-8:30PM,FMH,305,Campos,IT,331
+101,Digital Crime,12-21-2024,9:00AM-11:30AM,CKB,317,Statica,IT,332
+103,Digital Crime,12-20-2024,6:00PM-8:30PM,CKB,106,Campos,IT,332
+451,Digital Crime,12-20-2024,6:00PM-8:30PM,Online,NULL,Patel,IT,332
+1,Intro to System Administration,12-16-2024,2:30PM-5:00PM,GITC,1100,Senesy,IT,340
+5,Intro to System Administration,12-16-2024,2:30PM-5:00PM,CKB,219,Giannoglou,IT,340
+451,Intro to System Administration,12-19-2024,6:00PM-8:30PM,Online,NULL,Senesy,IT,340
+101,Graphics for Visual Effects,12-18-2024,6:00PM-8:30PM,ECEC,115,Weiss,IT,360
+101,Educational Software Design,12-16-2024,6:00PM-8:30PM,GITC,3200,Spryszynski,IT,380
+1,Game Design for XR,12-20-2024,11:30AM-2:00PM,GITC,3200,Vinnikov,IT,382
+451,Informtn Technlgy & The Law,12-21-2024,3:00PM-5:30PM,Online,NULL,Garcia,IT,400
+1,Computer Systems and Networks,12-18-2024,11:30AM-2:00PM,WEST,LECT 1,Farley,IT,420
+3,Computer Systems and Networks,12-18-2024,11:30AM-2:00PM,WEST,LECT 1,Farley,IT,420
+5,Computer Systems and Networks,12-18-2024,11:30AM-2:00PM,WEST,LECT 1,Farley,IT,420
+7,Computer Systems and Networks,12-18-2024,11:30AM-2:00PM,WEST,LECT 1,Farley,IT,420
+101,Computer Systems and Networks,12-18-2024,6:00PM-8:30PM,GITC,1202,Grayson,IT,420
+1,Ethical Hacking For Sys Admins,12-16-2024,11:30AM-2:00PM,KUPF,209,Senesy,IT,430
+1,3D Game Programming,12-18-2024,2:30PM-5:00PM,CKB,212,Kehoe,IT,466
+101,ST:,12-17-2024,6:00PM-8:30PM,TIER,108,Giannoglou,IT,485
+1,Systems Integration,12-19-2024,8:30AM-11:00AM,KUPF,117,Kehoe,IT,490
+5,Systems Integration,12-20-2024,2:30PM-5:00PM,CULM,LECT 1,Kehoe,IT,490
+101,Systems Integration,12-17-2024,6:00PM-8:30PM,GITC,3600,Patel,IT,490
+103,Systems Integration,12-19-2024,6:00PM-8:30PM,GITC,3600,Patel,IT,490
+101,Informtn Technlgy Capstone,12-17-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,IT,491
+103,Informtn Technlgy Capstone,12-19-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,IT,491
+HM1,Informtn Technlgy Capstone,12-17-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,IT,491
+HM3,Informtn Technlgy Capstone,12-19-2024,6:00PM-8:30PM,WEST,LECT 1,Eljabiri,IT,491
+101,Systems Administration,12-17-2024,6:00PM-8:30PM,FMH,207,Tolboom,IT,610
+851,Systems Administration,12-19-2024,6:00PM-8:30PM,Online,NULL,Tolboom,IT,610
+1,Wireless Net Security & Admin,12-18-2024,11:30AM-2:00PM,FMH,110,Senesy,IT,620
+851,Wireless Net Security & Admin,12-21-2024,12:00PM-2:30PM,Online,NULL,Senesy,IT,620
+1,Introduction to Literature,12-20-2024,2:30PM-5:00PM,FMH,319,McRae,LIT,230
+101,Poetry,12-19-2024,6:00PM-8:30PM,FMH,412,Curley,LIT,355
+1,Non-Fiction,12-19-2024,2:30PM-5:00PM,FMH,319,Kimmelman,LIT,365
+HM1,Non-Fiction,12-19-2024,2:30PM-5:00PM,FMH,319,Kimmelman,LIT,365
+1,Foundations of Math Lib Arts,12-19-2024,11:30AM-2:00PM,TIER,106,Hussein,MATH,101
+1,Elem Probability & Statistics,12-16-2024,8:30AM-11:00AM,CULM,LECT 2,Mafarjeh,MATH,105
+3,Elem Probability & Statistics,12-16-2024,8:30AM-11:00AM,KUPF,210,Carter,MATH,105
+5,Elem Probability & Statistics,12-16-2024,8:30AM-11:00AM,KUPF,210,Carter,MATH,105
+7,Elem Probability & Statistics,12-16-2024,8:30AM-11:00AM,CULM,LECT 3,Horwitz,MATH,105
+9,Elem Probability & Statistics,12-16-2024,8:30AM-11:00AM,CULM,LECT 2,Mafarjeh,MATH,105
+11,Elem Probability & Statistics,12-16-2024,8:30AM-11:00AM,CULM,LECT 3,Horwitz,MATH,105
+13,Elem Probability & Statistics,12-16-2024,8:30AM-11:00AM,KUPF,207,Kim,MATH,105
+101,Elem Probability & Statistics,12-18-2024,6:00PM-8:30PM,KUPF,207,Dandan,MATH,105
+103,Elem Probability & Statistics,12-16-2024,6:00PM-8:30PM,CKB,206,Kariuki,MATH,105
+1,University Mathematics A,12-18-2024,3:15PM-5:45PM,CKB,204,Khoukhi,MATH,107
+3,University Mathematics A,12-18-2024,3:15PM-5:45PM,CKB,204,Khoukhi,MATH,107
+5,University Mathematics A,12-18-2024,3:15PM-5:45PM,CKB,206,Salters,MATH,107
+7,University Mathematics A,12-18-2024,3:15PM-5:45PM,KUPF,210,Ferguson,MATH,107
+9,University Mathematics A,12-18-2024,3:15PM-5:45PM,ECEC,100,Gupta,MATH,107
+11,University Mathematics A,12-18-2024,3:15PM-5:45PM,TIER,111,Correia,MATH,107
+13,University Mathematics A,12-18-2024,3:15PM-5:45PM,ECEC,115,Gupta,MATH,107
+15,University Mathematics A,12-18-2024,3:15PM-5:45PM,KUPF,210,Ferguson,MATH,107
+17,University Mathematics A,12-18-2024,3:15PM-5:45PM,CULM,110,Smaily,MATH,107
+19,University Mathematics A,12-18-2024,3:15PM-5:45PM,CKB,214,Estfanous,MATH,107
+101,University Mathematics A,12-18-2024,6:00PM-8:30PM,TIER,112,Estfanous,MATH,107
+1,University Mathematics B,12-19-2024,11:30AM-2:00PM,CULM,LECT 2,Ikheloa,MATH,108
+3,University Mathematics B,12-19-2024,11:30AM-2:00PM,CULM,LECT 2,Ikheloa,MATH,108
+5,University Mathematics B,12-19-2024,11:30AM-2:00PM,CKB,217,Jean,MATH,108
+7,University Mathematics B,12-19-2024,11:30AM-2:00PM,CULM,LECT 3,Bouayad,MATH,108
+9,University Mathematics B,12-19-2024,11:30AM-2:00PM,CKB,214,McKenzie,MATH,108
+11,University Mathematics B,12-19-2024,11:30AM-2:00PM,CKB,217,Jean,MATH,108
+13,University Mathematics B,12-19-2024,11:30AM-2:00PM,CULM,LECT 3,Bouayad,MATH,108
+1,University Mathematics B II,12-17-2024,2:30PM-5:00PM,CKB,204,Cadet,MATH,110
+3,University Mathematics B II,12-17-2024,2:30PM-5:00PM,CKB,204,Cadet,MATH,110
+5,University Mathematics B II,12-17-2024,2:30PM-5:00PM,CULM,LECT 3,DeBarros,MATH,110
+7,University Mathematics B II,12-17-2024,2:30PM-5:00PM,CULM,LECT 3,DeBarros,MATH,110
+9,University Mathematics B II,12-17-2024,2:30PM-5:00PM,KUPF,210,Rodriguez,MATH,110
+11,University Mathematics B II,12-17-2024,2:30PM-5:00PM,KUPF,210,Rodriguez,MATH,110
+13,University Mathematics B II,12-17-2024,2:30PM-5:00PM,ME,221,Okoth,MATH,110
+15,University Mathematics B II,12-17-2024,2:30PM-5:00PM,ME,221,Okoth,MATH,110
+1,Calculus I,12-18-2024,3:15PM-5:45PM,GITC,1400,Davis,MATH,111
+3,Calculus I,12-18-2024,3:15PM-5:45PM,GITC,1400,Davis,MATH,111
+5,Calculus I,12-18-2024,3:15PM-5:45PM,KUPF,117,Sherman,MATH,111
+7,Calculus I,12-18-2024,3:15PM-5:45PM,CULM,LECT 1,Tsipenyuk,MATH,111
+9,Calculus I,12-18-2024,3:15PM-5:45PM,CKB,223,Potocki-Dul,MATH,111
+11,Calculus I,12-18-2024,3:15PM-5:45PM,CKB,126,Zhao,MATH,111
+13,Calculus I,12-18-2024,3:15PM-5:45PM,GITC,1100,Peltekov,MATH,111
+15,Calculus I,12-18-2024,3:15PM-5:45PM,GITC,1100,Peltekov,MATH,111
+17,Calculus I,12-18-2024,3:15PM-5:45PM,CKB,303,Adubato,MATH,111
+19,Calculus I,12-18-2024,3:15PM-5:45PM,KUPF,107,Neris,MATH,111
+21,Calculus I,12-18-2024,3:15PM-5:45PM,KUPF,117,Sherman,MATH,111
+23,Calculus I,12-18-2024,3:15PM-5:45PM,CULM,LECT 1,Tsipenyuk,MATH,111
+25,Calculus I,12-18-2024,3:15PM-5:45PM,KUPF,118,Sampedro,MATH,111
+27,Calculus I,12-18-2024,3:15PM-5:45PM,KUPF,118,Sampedro,MATH,111
+29,Calculus I,12-18-2024,3:15PM-5:45PM,CKB,215,Dandan,MATH,111
+31,Calculus I,12-18-2024,3:15PM-5:45PM,TIER,LECT 1,Bekhit,MATH,111
+33,Calculus I,12-18-2024,3:15PM-5:45PM,TIER,LECT 1,Bekhit,MATH,111
+35,Calculus I,12-18-2024,3:15PM-5:45PM,CKB,303,Adubato,MATH,111
+37,Calculus I,12-18-2024,3:15PM-5:45PM,TIER,114,Horwitz,MATH,111
+39,Calculus I,12-18-2024,3:15PM-5:45PM,TIER,105,Elassa,MATH,111
+41,Calculus I,12-18-2024,3:15PM-5:45PM,TIER,LECT 1,DeGroot,MATH,111
+43,Calculus I,12-18-2024,3:15PM-5:45PM,TIER,LECT 1,DeGroot,MATH,111
+45,Calculus I,12-18-2024,3:15PM-5:45PM,KUPF,204,Alptekin,MATH,111
+101,Calculus I,12-18-2024,6:00PM-8:30PM,TIER,111,Porterfield-Jackson,MATH,111
+H01,Calculus I,12-18-2024,3:15PM-5:45PM,FMH,407,Bechtold,MATH,111
+1,Calculus II,12-18-2024,3:15PM-5:45PM,WEST,LECT 1,Flax,MATH,112
+3,Calculus II,12-18-2024,3:15PM-5:45PM,CULM,LECT 2,Zaleski,MATH,112
+5,Calculus II,12-18-2024,3:15PM-5:45PM,WEST,LECT 1,Flax,MATH,112
+7,Calculus II,12-18-2024,3:15PM-5:45PM,CULM,LECT 3,Porus,MATH,112
+9,Calculus II,12-18-2024,3:15PM-5:45PM,KUPF,211,Ro,MATH,112
+11,Calculus II,12-18-2024,3:15PM-5:45PM,KUPF,211,Ro,MATH,112
+13,Calculus II,12-18-2024,3:15PM-5:45PM,WEST,LECT 1,Flax,MATH,112
+15,Calculus II,12-18-2024,3:15PM-5:45PM,CULM,LECT 2,Zaleski,MATH,112
+17,Calculus II,12-18-2024,3:15PM-5:45PM,CKB,317,Dubicki,MATH,112
+19,Calculus II,12-18-2024,3:15PM-5:45PM,CKB,330,Dubicki,MATH,112
+21,Calculus II,12-18-2024,3:15PM-5:45PM,TIER,107,Schmidt,MATH,112
+23,Calculus II,12-18-2024,3:15PM-5:45PM,TIER,108,Schmidt,MATH,112
+25,Calculus II,12-18-2024,3:15PM-5:45PM,WEST,LECT 1,Flax,MATH,112
+27,Calculus II,12-18-2024,3:15PM-5:45PM,CULM,LECT 3,Porus,MATH,112
+29,Calculus II,12-18-2024,3:15PM-5:45PM,TIER,112,Petropoulos,MATH,112
+101,Calculus II,12-18-2024,6:00PM-8:30PM,CULM,110,Behzadpour,MATH,112
+1,Finite Math & Calculus I,12-18-2024,2:30PM-5:00PM,FMH,321,Dandan,MATH,113
+1,Calculus for Business,12-17-2024,2:30PM-5:00PM,KUPF,208,Kim,MATH,135
+3,Calculus for Business,12-17-2024,2:30PM-5:00PM,TIER,114,Alptekin,MATH,135
+5,Calculus for Business,12-17-2024,2:30PM-5:00PM,CKB,217,Zaleski,MATH,135
+7,Calculus for Business,12-17-2024,2:30PM-5:00PM,CKB,217,Zaleski,MATH,135
+9,Calculus for Business,12-17-2024,2:30PM-5:00PM,FMH,405,Cohanoschi,MATH,135
+1,General Calculus I,12-17-2024,2:30PM-5:00PM,CULM,LECT 2,Milojevic,MATH,138
+3,General Calculus I,12-17-2024,2:30PM-5:00PM,CULM,LECT 2,Milojevic,MATH,138
+5,General Calculus I,12-17-2024,2:30PM-5:00PM,CKB,106,Potocki-Dul,MATH,138
+7,General Calculus I,12-17-2024,2:30PM-5:00PM,KUPF,202,Ro,MATH,138
+9,General Calculus I,12-17-2024,2:30PM-5:00PM,KUPF,207,Nair,MATH,138
+11,General Calculus I,12-17-2024,2:30PM-5:00PM,KUPF,105,Massoud,MATH,138
+101,General Calculus I,12-17-2024,6:00PM-8:30PM,CULM,110,Hercules-Menjivar,MATH,138
+1,Calculus III A,12-18-2024,3:15PM-5:45PM,ME,221,Boubendir,MATH,211
+3,Calculus III A,12-18-2024,3:15PM-5:45PM,ME,221,Boubendir,MATH,211
+5,Calculus III A,12-18-2024,3:15PM-5:45PM,CKB,314,Kelly,MATH,211
+7,Calculus III A,12-18-2024,3:15PM-5:45PM,KUPF,103,Kondic,MATH,211
+9,Calculus III A,12-18-2024,3:15PM-5:45PM,TIER,106,Diekman,MATH,211
+101,Calculus III A,12-18-2024,6:00PM-8:30PM,FMH,203,Patiak,MATH,211
+1,Calculus III B,12-19-2024,8:30AM-11:00AM,CKB,217,Barreto Aranda,MATH,213
+3,Calculus III B,12-19-2024,8:30AM-11:00AM,CKB,217,Barreto Aranda,MATH,213
+5,Calculus III B,12-19-2024,8:30AM-11:00AM,KUPF,210,Alptekin,MATH,213
+7,Calculus III B,12-19-2024,8:30AM-11:00AM,CULM,LECT 2,Ward,MATH,213
+9,Calculus III B,12-19-2024,8:30AM-11:00AM,CULM,LECT 2,Ward,MATH,213
+11,Calculus III B,12-19-2024,8:30AM-11:00AM,KUPF,210,Alptekin,MATH,213
+1,Differential Equations,12-20-2024,3:15PM-5:45PM,CULM,LECT 2,Rana Concepcion,MATH,222
+3,Differential Equations,12-20-2024,3:15PM-5:45PM,CULM,LECT 2,Rana Concepcion,MATH,222
+5,Differential Equations,12-20-2024,3:15PM-5:45PM,CKB,204,Potocki-Dul,MATH,222
+7,Differential Equations,12-20-2024,3:15PM-5:45PM,CKB,204,Potocki-Dul,MATH,222
+9,Differential Equations,12-20-2024,3:15PM-5:45PM,CULM,LECT 3,Bouayad,MATH,222
+11,Differential Equations,12-20-2024,3:15PM-5:45PM,TIER,114,Young,MATH,222
+13,Differential Equations,12-20-2024,3:15PM-5:45PM,CULM,LECT 3,Bouayad,MATH,222
+101,Differential Equations,12-20-2024,6:00PM-8:30PM,FMH,404,Potocki-Dul,MATH,222
+H01,Differential Equations,12-20-2024,3:15PM-5:45PM,FMH,407,Choi,MATH,222
+1,Survey Of Prob and Stats,12-17-2024,11:30AM-2:00PM,KUPF,202,Horwitz,MATH,225
+1,Mathematical Modeling,12-16-2024,11:30AM-2:00PM,FMH,407,Diekman,MATH,227
+1,General Calculus II,12-18-2024,2:30PM-5:00PM,KUPF,105,Ro,MATH,238
+3,General Calculus II,12-18-2024,2:30PM-5:00PM,KUPF,206,Cohanoschi,MATH,238
+101,General Calculus II,12-16-2024,6:00PM-8:30PM,FMH,203,Hercules-Menjivar,MATH,238
+1,Intro to Probability Theory,12-16-2024,8:30AM-11:00AM,KUPF,209,Subramanian,MATH,244
+1,Stats &Probability For Engr,12-20-2024,2:30PM-5:00PM,CKB,217,Mahmood,MATH,279
+3,Stats &Probability For Engr,12-20-2024,2:30PM-5:00PM,CKB,217,Mahmood,MATH,279
+5,Stats &Probability For Engr,12-20-2024,3:15PM-5:45PM,TIER,LECT 2,Jamedar,MATH,279
+7,Stats &Probability For Engr,12-20-2024,3:15PM-5:45PM,TIER,LECT 2,Jamedar,MATH,279
+9,Stats &Probability For Engr,12-20-2024,3:15PM-5:45PM,TIER,LECT 2,Jamedar,MATH,279
+101,Stats &Probability For Engr,12-17-2024,6:00PM-8:30PM,KUPF,104,Ionescu,MATH,279
+103,Stats &Probability For Engr,12-20-2024,6:00PM-8:30PM,KUPF,207,Jamedar,MATH,279
+101,Statistics for Technology,12-16-2024,6:00PM-8:30PM,CKB,106,Schmidt,MATH,305
+1,Math Analysis For Tech,12-19-2024,2:30PM-5:00PM,KUPF,207,Horwitz,MATH,309
+101,Math Analysis For Tech,12-20-2024,6:00PM-8:30PM,TIER,112,Ro,MATH,309
+3,Diff Equations for Application,12-20-2024,11:30AM-2:00PM,TIER,105,Cohanoschi,MATH,322
+101,Diff Equations for Application,12-19-2024,6:00PM-8:30PM,CULM,LECT 1,Patiak,MATH,322
+1,Discrete Analysis For COE,12-20-2024,11:30AM-2:00PM,KUPF,206,Ward,MATH,326
+3,Discrete Analysis For COE,12-20-2024,11:30AM-2:00PM,KUPF,105,Rana Concepcion,MATH,326
+1,Intro Partial Diff Eq,12-20-2024,2:30PM-5:00PM,TIER,105,Matveev,MATH,331
+1,Intro Complex Variables,12-17-2024,2:30PM-5:00PM,CKB,313,Turc,MATH,332
+1,Probability and Statistics,12-18-2024,3:15PM-5:45PM,CKB,217,Kim,MATH,333
+3,Probability and Statistics,12-18-2024,3:15PM-5:45PM,TIER,LECT 2,Carfora,MATH,333
+7,Probability and Statistics,12-18-2024,3:15PM-5:45PM,CKB,217,Kim,MATH,333
+9,Probability and Statistics,12-18-2024,3:15PM-5:45PM,KUPF,203,Mahmood,MATH,333
+11,Probability and Statistics,12-18-2024,3:15PM-5:45PM,TIER,LECT 2,Carfora,MATH,333
+13,Probability and Statistics,12-18-2024,3:15PM-5:45PM,TIER,LECT 2,Carfora,MATH,333
+15,Probability and Statistics,12-18-2024,3:15PM-5:45PM,KUPF,208,Schmidt,MATH,333
+17,Probability and Statistics,12-18-2024,3:15PM-5:45PM,CKB,120,Natarajan,MATH,333
+19,Probability and Statistics,12-18-2024,3:15PM-5:45PM,CULM,111,Dhar,MATH,333
+21,Probability and Statistics,12-18-2024,3:15PM-5:45PM,KUPF,106,Mahmood,MATH,333
+101,Probability and Statistics,12-18-2024,6:00PM-8:30PM,KUPF,209,Porus,MATH,333
+103,Probability and Statistics,12-18-2024,6:00PM-8:30PM,TIER,107,Carfora,MATH,333
+H01,Probability and Statistics,12-18-2024,3:15PM-5:45PM,CKB,124,Natarajan,MATH,333
+1,Linear Algebra,12-18-2024,3:15PM-5:45PM,KUPF,205,Luke,MATH,337
+3,Linear Algebra,12-18-2024,3:15PM-5:45PM,KUPF,202,Goodman,MATH,337
+5,Linear Algebra,12-18-2024,3:15PM-5:45PM,KUPF,209,Luke,MATH,337
+7,Linear Algebra,12-18-2024,3:15PM-5:45PM,CKB,106,Nguyen,MATH,337
+101,Linear Algebra,12-18-2024,6:00PM-8:30PM,CKB,106,Ammicht,MATH,337
+1,Applied Numerical Methods,12-19-2024,8:30AM-11:00AM,CKB,126,Bukiet,MATH,340
+1,Stats Methods I,12-20-2024,8:30AM-11:00AM,KUPF,209,Carfora,MATH,341
+1,Regression Analysis,12-18-2024,2:30PM-5:00PM,ME,224,Jin,MATH,344
+1,Mathematics of Finance I,12-19-2024,2:30PM-5:00PM,ECEC,100,Bui,MATH,346
+3,Mathematics of Finance I,12-19-2024,2:30PM-5:00PM,ECEC,100,Bui,MATH,346
+1,Stochastic/Discrete Bio Models,12-16-2024,8:30AM-11:00AM,FMH,110,MacLaurin,MATH,374
+1,Numerical Linear Algebra,12-16-2024,8:30AM-11:00AM,KUPF,105,Siegel,MATH,391
+101,Analyticl & Computnl Neurosci,12-16-2024,6:00PM-8:30PM,CKB,316,Rotstein,MATH,430
+H01,Math Of Fin Derivatives I,12-17-2024,2:30PM-5:00PM,FMH,407,Pole,MATH,432
+1,Actuarial Mathematics I,12-16-2024,2:30PM-5:00PM,FMH,110,Bui,MATH,441
+101,Stochastic Simulation,12-17-2024,6:00PM-8:30PM,TIER,111,Horntrop,MATH,448
+H01,Methods Of Applied Math,12-18-2024,11:30AM-2:00PM,CKB,214,Afkhami,MATH,450
+1,Statistics Capstone I,12-19-2024,2:30PM-5:00PM,FMH,403,Loh,MATH,462
+1,Intermed Differen Equatn,12-19-2024,2:30PM-5:00PM,CULM,110,Shirokoff,MATH,473
+1,Stat Methods in Data Sci,12-20-2024,2:30PM-5:00PM,FMH,313,Shi,MATH,478
+1,Intro Math Analysis,12-17-2024,8:30AM-11:00AM,CULM,LECT 1,Shirokoff,MATH,480
+1,Intro Math Analysis,12-17-2024,8:30AM-11:00AM,CULM,LECT 1,Shirokoff,MATH,545
+1,Intermed Diff Equations,12-19-2024,2:30PM-5:00PM,CULM,110,Shirokoff,MATH,573
+1,Teaching in Mathematics,12-20-2024,2:30PM-5:00PM,FMH,321,Cirillo,MATH,599
+1,Adv Applied Math-Modelng,12-18-2024,2:30PM-5:00PM,FMH,412,Matveev,MATH,613
+101,Linear Algebra & Applica,12-17-2024,6:00PM-8:30PM,TIER,107,Ammicht,MATH,630
+1,Linear Algebra,12-19-2024,11:30AM-2:00PM,FMH,404,Askham,MATH,631
+101,Analytcl Computational Neuro,12-16-2024,6:00PM-8:30PM,CKB,316,Rotstein,MATH,635
+101,Regression Analysis Methods,12-16-2024,6:00PM-8:30PM,KUPF,107,Wang,MATH,644
+1,Analysis,12-17-2024,2:30PM-5:00PM,FMH,412,Bose,MATH,645
+1,Methods Of Applied Math I,12-16-2024,2:30PM-5:00PM,FMH,412,Booty,MATH,651
+101,Survival Analysis,12-19-2024,6:00PM-8:30PM,TIER,105,Subramanian,MATH,659
+101,Intro to Stat Comp w/ SAS & R,12-19-2024,6:00PM-8:30PM,CKB,106,Loh,MATH,660
+103,Intro to Stat Comp w/ SAS & R,12-16-2024,6:00PM-8:30PM,KUPF,108,Shang,MATH,660
+101,Applied Statistics,12-16-2024,6:00PM-8:30PM,CKB,120,Natarajan,MATH,661
+103,Applied Statistics,12-17-2024,6:00PM-8:30PM,CKB,226,Pole,MATH,661
+105,Applied Statistics,12-18-2024,6:00PM-8:30PM,CKB,120,Falconer,MATH,661
+107,Applied Statistics,12-19-2024,6:00PM-8:30PM,KUPF,204,Flores,MATH,661
+109,Applied Statistics,12-19-2024,6:00PM-8:30PM,KUPF,104,Natarajan,MATH,661
+851,Applied Statistics,12-20-2024,6:00PM-8:30PM,Online,NULL,Pole,MATH,661
+853,Applied Statistics,12-20-2024,6:00PM-8:30PM,Online,NULL,Pole,MATH,661
+101,Probability Distributions,12-18-2024,6:00PM-8:30PM,KUPF,202,Dhar,MATH,662
+101,Introduction to Biostatistics,12-17-2024,6:00PM-8:30PM,KUPF,210,Kariuki,MATH,663
+1,Adv Ordinary Diffe Eq,12-16-2024,2:30PM-5:00PM,FMH,314,Jaquette,MATH,676
+101,Stat Methods in Data Science,12-18-2024,6:00PM-8:30PM,CULM,111,Shang,MATH,678
+101,Advanced Statistical Learning,12-19-2024,6:00PM-8:30PM,FMH,106,Wang,MATH,680
+1,Adv Applied Math III,12-18-2024,2:30PM-5:00PM,FMH,314,Turc,MATH,690
+1,Numerical Methods II,12-19-2024,2:30PM-5:00PM,FMH,412,Petropoulos,MATH,712
+1,Generalized Linear Models,12-18-2024,11:30AM-2:00PM,CKB,212,Jin,MATH,763
+1,Engr Materls & Processes,12-19-2024,2:30PM-5:00PM,KUPF,211,Samardzic,ME,215
+3,Engr Materls & Processes,12-19-2024,2:30PM-5:00PM,KUPF,211,Samardzic,ME,215
+5,Engr Materls & Processes,12-19-2024,2:30PM-5:00PM,CKB,214,Dong,ME,215
+7,Engr Materls & Processes,12-19-2024,2:30PM-5:00PM,FMH,405,Chester,ME,215
+9,Engr Materls & Processes,12-19-2024,2:30PM-5:00PM,KUPF,211,Samardzic,ME,215
+101,Engr Materls & Processes,12-17-2024,6:00PM-8:30PM,GITC,2315A,Suwattananont,ME,215
+103,Engr Materls & Processes,12-18-2024,6:00PM-8:30PM,CKB,114,Suwattananont,ME,215
+HM1,Engr Materls & Processes,12-19-2024,2:30PM-5:00PM,KUPF,211,Samardzic,ME,215
+HM3,Engr Materls & Processes,12-19-2024,2:30PM-5:00PM,FMH,405,Chester,ME,215
+1,Kinematics of Machinery,12-19-2024,8:30AM-11:00AM,CKB,207,Fischer,ME,231
+3,Kinematics of Machinery,12-19-2024,8:30AM-11:00AM,CKB,106,Glick,ME,231
+101,Kinematics of Machinery,12-18-2024,6:00PM-8:30PM,CKB,303,Russell,ME,231
+1,Fluid Mechanics,12-20-2024,2:30PM-5:00PM,CKB,207,Marras,ME,304
+101,Fluid Mechanics,12-19-2024,6:00PM-8:30PM,ME,224,Alisafaei,ME,304
+1,Intro To System Dynamics,12-19-2024,2:30PM-5:00PM,CKB,126,Fischer,ME,305
+101,Intro To System Dynamics,12-16-2024,6:00PM-8:30PM,CKB,124,Ji,ME,305
+1,Thermodynamics I,12-19-2024,2:30PM-5:00PM,KUPF,202,Datta,ME,311
+101,Thermodynamics I,12-18-2024,6:00PM-8:30PM,ME,221,Song,ME,311
+103,Thermodynamics I,12-19-2024,6:00PM-8:30PM,TIER,113,Ali,ME,311
+1,Thermodynamics II,12-17-2024,11:30AM-2:00PM,CKB,114,Kountouras,ME,312
+101,Thermodynamics II,12-18-2024,6:00PM-8:30PM,ME,224,Datta,ME,312
+1,Stress Analysis,12-16-2024,2:30PM-5:00PM,KUPF,202,Glick,ME,315
+3,Stress Analysis,12-16-2024,2:30PM-5:00PM,ME,221,Narh,ME,315
+101,Stress Analysis,12-17-2024,6:00PM-8:30PM,ME,224,Liu,ME,315
+1,Machine Design,12-16-2024,2:30PM-5:00PM,CKB,114,Kountouras,ME,316
+101,Machine Design,12-17-2024,6:00PM-8:30PM,CKB,214,Tricamo,ME,316
+1,Fundamtls Of Mach Design,12-20-2024,2:30PM-5:00PM,ME,224,Tricamo,ME,339
+1,Mechanical Laboratory I,12-17-2024,2:30PM-5:00PM,ME,214,Mani,ME,343
+3,Mechanical Laboratory I,12-19-2024,11:30AM-2:00PM,ME,214,Singh,ME,343
+5,Mechanical Laboratory I,12-19-2024,2:30PM-5:00PM,ME,214,Zhu,ME,343
+101,Mechanical Laboratory I,12-17-2024,6:00PM-8:30PM,ME,214,Reddy,ME,343
+1,Mechanical Systems Design I,12-16-2024,8:30AM-11:00AM,KUPF,104,Glick,ME,403
+101,Mechanical Systems Design I,12-17-2024,6:00PM-8:30PM,FMH,106,Kountouras,ME,403
+103,Mechanical Systems Design I,12-19-2024,6:00PM-8:30PM,FMH,310,Kountouras,ME,403
+1,Mechanical Laboratory II,12-20-2024,2:30PM-5:00PM,ME,110,Samardzic,ME,405
+3,Mechanical Laboratory II,12-16-2024,11:30AM-2:00PM,ME,110,Narh,ME,405
+101,Mechanical Laboratory II,12-16-2024,6:00PM-8:30PM,ME,110,Prasad,ME,405
+103,Mechanical Laboratory II,12-20-2024,6:00PM-8:30PM,ME,110,Reddy,ME,405
+1,Mechanical Laboratory III,12-20-2024,11:30AM-2:00PM,ME,110,Lee,ME,406
+101,Mechanical Laboratory III,12-17-2024,6:00PM-8:30PM,ME,110,Samardzic,ME,406
+103,Mechanical Laboratory III,12-18-2024,6:00PM-8:30PM,ME,110,Reddy,ME,406
+1,Heat Transfer,12-18-2024,6:00PM-8:30PM,CKB,226,Marras,ME,407
+3,Heat Transfer,12-18-2024,6:00PM-8:30PM,KUPF,107,Farokhirad,ME,407
+101,Heat Transfer,12-18-2024,6:00PM-8:30PM,CKB,204,Lee,ME,407
+HM1,Heat Transfer,12-18-2024,6:00PM-8:30PM,CKB,204,Lee,ME,407
+101,Mechanical Systems Design II,12-16-2024,6:00PM-8:30PM,FMH,407,Russell,ME,408
+1,Intro Computer Aided Des,12-20-2024,8:30AM-11:00AM,ME,219,Moon,ME,430
+3,Intro Computer Aided Des,12-20-2024,11:30AM-2:00PM,ME,219,Mani,ME,430
+101,Intro Computer Aided Des,12-16-2024,6:00PM-8:30PM,ME,219,Moon,ME,430
+1,Vibration Analysis,12-19-2024,2:30PM-5:00PM,ME,224,Tricamo,ME,433
+101,Intro Physical Metallurgy,12-19-2024,6:00PM-8:30PM,CKB,330,Samardzic,ME,438
+HM1,Intro Physical Metallurgy,12-19-2024,6:00PM-8:30PM,CKB,330,Samardzic,ME,438
+101,Comp Sim & Analy Mech Engr,12-18-2024,6:00PM-8:30PM,ME,219,Prasad,ME,441
+1,Dynamics of Space Flight,12-17-2024,2:30PM-5:00PM,FMH,110,Rosato,ME,452
+101,Dynam Of Incomp Fluids,12-20-2024,6:00PM-8:30PM,ME,214,Singh,ME,611
+101,Continuum Mechanics,12-18-2024,6:00PM-8:30PM,FMH,307,Rao,ME,614
+101,Matrix Tensor Meth In Me,12-19-2024,6:00PM-8:30PM,FMH,405,Rosato,ME,616
+101,ST:,12-16-2024,6:00PM-8:30PM,FMH,405,Balogh,ME,618
+101,Mechanics of Materials,12-16-2024,6:00PM-8:30PM,CKB,315,Ahmadpoor,ME,620
+101,Introduction to Robotics,12-19-2024,6:00PM-8:30PM,FMH,321,Swissler,ME,625
+101,Computer-Aided Design,12-17-2024,6:00PM-8:30PM,ME,219,Moon,ME,635
+1,Engineering Mechanics,12-16-2024,11:30AM-2:00PM,KUPF,210,Milano,MECH,234
+3,Engineering Mechanics,12-16-2024,11:30AM-2:00PM,KUPF,118,Saadeghvaziri,MECH,234
+HM1,Engineering Mechanics,12-16-2024,11:30AM-2:00PM,KUPF,118,Saadeghvaziri,MECH,234
+1,Statics,12-19-2024,11:30AM-2:00PM,CKB,204,Saigal,MECH,235
+3,Statics,12-19-2024,11:30AM-2:00PM,CKB,204,Saigal,MECH,235
+1,Dynamics,12-18-2024,11:30AM-2:00PM,WEST,LECT 2,Ding,MECH,236
+3,Dynamics,12-18-2024,11:30AM-2:00PM,ECEC,115,Ding,MECH,236
+5,Dynamics,12-18-2024,11:30AM-2:00PM,CULM,111,Milano,MECH,236
+7,Dynamics,12-18-2024,11:30AM-2:00PM,ECEC,100,Ding,MECH,236
+HM1,Dynamics,12-18-2024,11:30AM-2:00PM,WEST,LECT 2,Ding,MECH,236
+1,Strength Of Materials,12-19-2024,11:30AM-2:00PM,KUPF,117,Castro,MECH,237
+3,Strength Of Materials,12-19-2024,11:30AM-2:00PM,KUPF,117,Castro,MECH,237
+5,Strength Of Materials,12-19-2024,11:30AM-2:00PM,KUPF,208,Milano,MECH,237
+7,Strength Of Materials,12-19-2024,11:30AM-2:00PM,KUPF,208,Milano,MECH,237
+101,Strength Of Materials,12-19-2024,6:00PM-8:30PM,COLT,423,Castro,MECH,237
+103,Strength Of Materials,12-19-2024,6:00PM-8:30PM,COLT,423,Castro,MECH,237
+105,Strength Of Materials,12-16-2024,6:00PM-8:30PM,KUPF,104,Milano,MECH,237
+HM1,Strength Of Materials,12-16-2024,6:00PM-8:30PM,KUPF,104,Milano,MECH,237
+1,Engrg Graphics & Intro To CAD,12-19-2024,8:30AM-11:00AM,MALL,PC37,Rahman,MET,103
+3,Engrg Graphics & Intro To CAD,12-19-2024,8:30AM-11:00AM,MALL,PC40,Frank,MET,103
+5,Engrg Graphics & Intro To CAD,12-19-2024,8:30AM-11:00AM,MALL,PC36,Sodhi,MET,103
+7,Engrg Graphics & Intro To CAD,12-19-2024,8:30AM-11:00AM,GITC,2315C,Rodriguez,MET,103
+101,Engrg Graphics & Intro To CAD,12-19-2024,6:00PM-8:30PM,MALL,PC36,Lanfrank,MET,103
+103,Engrg Graphics & Intro To CAD,12-18-2024,6:00PM-8:30PM,MALL,PC36,Lanfrank,MET,103
+105,Engrg Graphics & Intro To CAD,12-16-2024,6:00PM-8:30PM,MALL,PC37,Orlos,MET,103
+101,Applied CAD,12-19-2024,6:00PM-8:30PM,GITC,2302,Shamroukh,MET,105
+103,Applied CAD,12-18-2024,6:00PM-8:30PM,GITC,2302,Makris,MET,105
+101,Advanced CAD,12-19-2024,6:00PM-8:30PM,MALL,PC37,Rodriguez,MET,205
+1,Statics for Technology,12-16-2024,2:30PM-5:00PM,CKB,214,Jaiswal,MET,235
+101,Statics for Technology,12-18-2024,6:00PM-8:30PM,FMH,305,Rohafza,MET,235
+101,Dynamics for Technology,12-20-2024,6:00PM-8:30PM,CKB,320,Botros,MET,236
+1,Strngth Of Materials For Tec,12-17-2024,11:30AM-2:00PM,FMH,319,Lieber,MET,237
+101,Strngth Of Materials For Tec,12-17-2024,6:00PM-8:30PM,FMH,321,Botros,MET,237
+1,Anal & Dgn Machn Elems I,12-18-2024,11:30AM-2:00PM,CKB,126,Sengupta,MET,301
+101,Anal & Dgn Machn Elems I,12-16-2024,6:00PM-8:30PM,GITC,2315A,Belal,MET,301
+101,Anal & Dgn Machn Elem II,12-18-2024,6:00PM-8:30PM,CKB,217,Belal,MET,302
+101,Applied Thermodynamics,12-19-2024,6:00PM-8:30PM,GITC,2400,Rohafza,MET,303
+451,Applied Thermodynamics,12-21-2024,6:00PM-8:30PM,Online,NULL,Rohafza,MET,303
+101,Applied Fluid Mechanics,12-19-2024,6:00PM-8:30PM,GITC,1400,Rahman,MET,304
+103,Applied Fluid Mechanics,12-21-2024,12:00PM-2:30PM,ME,110,Tafuni,MET,304
+101,Plastics Technology,12-17-2024,6:00PM-8:30PM,GITC,2302,La Rosa,MET,307
+1,Dynamics of Machinery,12-20-2024,2:30PM-5:00PM,FMH,404,Rahman,MET,314
+101,Dynamics of Machinery,12-18-2024,6:00PM-8:30PM,GITC,1400,Botros,MET,314
+101,Automatic Control Systems,12-17-2024,6:00PM-8:30PM,GITC,2310,Awad,MET,415
+103,Automatic Control Systems,12-18-2024,6:00PM-8:30PM,GITC,2310,Awad,MET,415
+101,Mech Design Capstone Project,12-19-2024,6:00PM-8:30PM,CKB,120,Beshay,MET,450
+103,Mech Design Capstone Project,12-16-2024,6:00PM-8:30PM,CKB,214,Beshay,MET,450
+1,Quantitative Analysis Appl Bus,12-18-2024,11:30AM-2:00PM,GITC,1100,Rudna,MGMT,116
+3,Quantitative Analysis Appl Bus,12-18-2024,11:30AM-2:00PM,GITC,1100,Rudna,MGMT,116
+1,Introduction to Business,12-20-2024,2:30PM-5:00PM,GITC,1100,Salmeron,MGMT,190
+3,Introduction to Business,12-20-2024,2:30PM-5:00PM,GITC,1100,Salmeron,MGMT,190
+5,Introduction to Business,12-20-2024,2:30PM-5:00PM,ME,221,Berliner,MGMT,190
+101,Introduction to Business,12-17-2024,6:00PM-8:30PM,KUPF,207,Salmeron,MGMT,190
+103,Introduction to Business,12-16-2024,6:00PM-8:30PM,ECEC,115,Roman,MGMT,190
+1,Business Data Analytics,12-18-2024,11:30AM-2:00PM,GITC,1400,Gupta,MGMT,216
+3,Business Data Analytics,12-18-2024,11:30AM-2:00PM,GITC,1400,Gupta,MGMT,216
+101,Business Data Analytics,12-17-2024,7:30PM-8:50PM,KUPF,105,Zhou,MGMT,216
+1,Business Law I,12-16-2024,11:30AM-2:00PM,CULM,110,Chamoun,MGMT,290
+3,Business Law I,12-16-2024,11:30AM-2:00PM,ECEC,115,Fox,MGMT,290
+451,Business Law I,12-21-2024,12:00PM-2:30PM,Online,NULL,Garcia,MGMT,290
+453,Business Law I,12-21-2024,6:00PM-8:30PM,Online,NULL,Garcia,MGMT,290
+455,Business Law I,12-16-2024,6:00PM-8:30PM,Online,NULL,Fox,MGMT,290
+1,Business Research Methods,12-16-2024,2:30PM-5:00PM,KUPF,209,Shi,MGMT,316
+101,Business Research Methods,12-19-2024,6:00PM-8:30PM,CKB,124,Shi,MGMT,316
+451,Real Estate Principles,12-21-2024,9:00AM-11:30AM,Online,NULL,Berliner,MGMT,330
+1,Principles of Business,12-19-2024,2:30PM-5:00PM,CKB,120,Egbelu,MGMT,390
+101,Principles of Business,12-17-2024,6:00PM-8:30PM,CULM,LECT 2,Egbelu,MGMT,390
+451,Principles of Business,12-20-2024,6:00PM-8:30PM,Online,NULL,Egbelu,MGMT,390
+453,Principles of Business,12-19-2024,6:00PM-8:30PM,Online,NULL,Egbelu,MGMT,390
+459,Principles of Business,12-21-2024,3:00PM-5:30PM,Online,NULL,Scott,MGMT,390
+461,Principles of Business,12-21-2024,3:00PM-5:30PM,Online,NULL,Roman,MGMT,390
+HM1,Principles of Business,12-19-2024,2:30PM-5:00PM,CKB,120,Egbelu,MGMT,390
+101,International Business,12-17-2024,6:00PM-8:30PM,CULM,LECT 3,Gargouri,MGMT,391
+451,International Business,12-21-2024,3:00PM-5:30PM,Online,NULL,Greenberg,MGMT,391
+453,International Business,12-20-2024,6:00PM-8:30PM,Online,NULL,Greenberg,MGMT,391
+1,AI for Business Decisions,12-20-2024,8:30AM-11:00AM,CKB,207,Fox,MGMT,416
+HM1,AI for Business Decisions,12-20-2024,8:30AM-11:00AM,CKB,207,Fox,MGMT,416
+1,Managing Tech & Innovation,12-18-2024,2:30PM-5:00PM,WEST,LECT 2,Zhang,MGMT,480
+101,Managing Tech & Innovation,12-19-2024,7:30PM-8:50PM,KUPF,103,Zhang,MGMT,480
+101,Dec Anal with Quant Modeling,12-17-2024,6:00PM-8:30PM,CAB,3052,Sylla,MGMT,630
+851,Dec Anal with Quant Modeling,12-21-2024,3:00PM-5:30PM,Online,NULL,Sylla,MGMT,630
+101,Data Mining&Anal For Mngrs,12-18-2024,6:00PM-8:30PM,KUPF,105,Shohrab,MGMT,635
+851,Data Mining&Anal For Mngrs,12-19-2024,6:00PM-8:30PM,Online,NULL,Chen,MGMT,635
+853,Data Mining&Anal For Mngrs,12-21-2024,3:00PM-5:30PM,Online,NULL,Yu,MGMT,635
+101,Knowledge Management,12-18-2024,6:00PM-8:30PM,KUPF,103,Koskinen,MGMT,650
+101,Business Research Methods I,12-17-2024,6:00PM-8:30PM,CAB,2020,Zhang,MGMT,682
+1,Intro To Mngmnt Info Syst,12-19-2024,11:30AM-2:00PM,GITC,1400,Kudyba,MIS,245
+3,Intro To Mngmnt Info Syst,12-19-2024,11:30AM-2:00PM,GITC,1400,Kudyba,MIS,245
+101,Intro To Mngmnt Info Syst,12-18-2024,6:00PM-8:30PM,KUPF,205,Goswami,MIS,245
+451,Intro To Mngmnt Info Syst,12-20-2024,6:00PM-8:30PM,Online,NULL,Lovitch,MIS,245
+455,Intro To Mngmnt Info Syst,12-21-2024,3:00PM-5:30PM,Online,NULL,Lovitch,MIS,245
+457,Intro To Mngmnt Info Syst,12-21-2024,3:00PM-5:30PM,Online,NULL,Kargar,MIS,245
+1,Projct Mngmnt For Managers,12-20-2024,2:30PM-5:00PM,KUPF,202,Chen,MIS,363
+101,Projct Mngmnt For Managers,12-18-2024,6:00PM-8:30PM,FMH,306,Moodey,MIS,363
+455,Database Systems for Managers,12-17-2024,6:00PM-8:30PM,Online,NULL,Rajamani,MIS,385
+101,Dec Supprt Tool & Tech Mngrs,12-18-2024,7:30PM-8:50PM,KUPF,203,Park,MIS,445
+451,Dec Supprt Tool & Tech Mngrs,12-21-2024,6:00PM-8:30PM,Online,NULL,Park,MIS,445
+1,Info Tech & Comp Advantage,12-16-2024,8:30AM-11:00AM,KUPF,108,Fjermestad,MIS,645
+101,Info Tech & Comp Advantage,12-17-2024,6:00PM-8:30PM,CAB,3052,Fjermestad,MIS,645
+851,Info Tech & Comp Advantage,12-21-2024,6:00PM-8:30PM,Online,NULL,Fjermestad,MIS,645
+853,Info Tech & Comp Advantage,12-21-2024,3:00PM-5:30PM,Online,NULL,Fjermestad,MIS,645
+851,Dec Support Sys For Mngrs,12-21-2024,12:00PM-2:30PM,Online,NULL,Sylla,MIS,648
+101,Computerized Manufacturing Sys,12-16-2024,6:00PM-8:30PM,GITC,2310,Aristilde,MNE,601
+101,Mats. and Processes for Tech.,12-19-2024,6:00PM-8:30PM,GITC,2311,Orlos,MNET,215
+1,Concepts In Machining,12-17-2024,2:30PM-5:00PM,GITC,2311,Lieber,MNET,300
+101,Adv Tech In CAD/CAM,12-16-2024,6:00PM-8:30PM,GITC,2315C,Dyer,MNET,303
+1,Industrial Statistics,12-20-2024,2:30PM-5:00PM,CKB,215,Chaudhuri,MNET,315
+101,Industrial Statistics,12-17-2024,6:00PM-8:30PM,KUPF,208,May,MNET,315
+1,Industrial Cost Analysis,12-17-2024,2:30PM-5:00PM,CULM,110,Chaudhuri,MNET,414
+101,Industrial Cost Analysis,12-18-2024,6:00PM-8:30PM,CKB,220,Zeiner,MNET,414
+103,Industrial Cost Analysis,12-19-2024,6:00PM-8:30PM,CKB,214,Zeiner,MNET,414
+105,Industrial Cost Analysis,12-20-2024,6:00PM-8:30PM,CKB,219,Dyer,MNET,414
+101,Production Scheduling,12-18-2024,6:00PM-8:30PM,CKB,207,Arisoy Azim,MNET,416
+101,Quality Systems,12-16-2024,6:00PM-8:30PM,CKB,212,May,MNET,420
+101,Principles of Marketing,12-16-2024,6:00PM-8:30PM,FMH,408,Aziz,MRKT,330
+455,Principles of Marketing,12-19-2024,6:00PM-8:30PM,Online,NULL,Olotewo,MRKT,330
+457,Principles of Marketing,12-21-2024,3:00PM-5:30PM,Online,NULL,Olotewo,MRKT,330
+851,Global Marketing Management,12-21-2024,6:00PM-8:30PM,Online,NULL,Elowitz,MRKT,620
+101,Strategic Mrkt Management,12-17-2024,6:00PM-8:30PM,KUPF,206,Roman,MRKT,632
+851,Strategic Mrkt Management,12-16-2024,6:00PM-8:30PM,Online,NULL,Shrivastava,MRKT,632
+855,Strategic Mrkt Management,12-21-2024,3:00PM-5:30PM,Online,NULL,Elowitz,MRKT,632
+851,Des/Dev High Tech Prod,12-19-2024,6:00PM-8:30PM,Online,NULL,Elowitz,MRKT,636
+1,Intro Princ of Material Engr,12-17-2024,2:30PM-5:00PM,FMH,404,McEnnis,MTEN,201
+3,Intro Princ of Material Engr,12-17-2024,2:30PM-5:00PM,CKB,220,Gor,MTEN,201
+HM1,Intro Princ of Material Engr,12-17-2024,2:30PM-5:00PM,FMH,404,McEnnis,MTEN,201
+1,Thermodynamics of Materials,12-20-2024,2:30PM-5:00PM,FMH,409,Khusid,MTEN,301
+101,Found of Materials Sci & Engr,12-19-2024,6:00PM-8:30PM,FMH,305,Zhao,MTEN,610
+101,Thermodynamics Of Materl,12-18-2024,6:00PM-8:30PM,FMH,314,Tyson,MTSE,602
+101,Tranport Of Electons & Photons,12-16-2024,6:00PM-8:30PM,FMH,205,Jerez,MTSE,724
+1,Business Op Mgmt & Analytics,12-17-2024,11:30AM-2:00PM,FMH,408,Rudna,OM,375
+101,Business Op Mgmt & Analytics,12-19-2024,7:30PM-8:50PM,CKB,124,Rudna,OM,375
+101,Optical Sci & Engr Optics,12-17-2024,6:00PM-8:30PM,FMH,403B,Balasingham,OPSE,301
+101,Princ Of Pharmctcl Engr,12-17-2024,6:00PM-8:30PM,FMH,412,Bernhardt,PHEN,601
+101,Pharm Unit Oper:Liq&Disp Sys,12-16-2024,6:00PM-8:30PM,FMH,309,Armenante,PHEN,603
+1,Engineering Ethics,12-16-2024,8:30AM-11:00AM,GITC,1400,Randel,PHIL,334
+3,Engineering Ethics,12-16-2024,8:30AM-11:00AM,GITC,1400,Randel,PHIL,334
+5,Engineering Ethics,12-16-2024,8:30AM-11:00AM,CKB,217,Holbrook,PHIL,334
+7,Engineering Ethics,12-16-2024,8:30AM-11:00AM,TIER,105,Edel,PHIL,334
+9,Engineering Ethics,12-16-2024,8:30AM-11:00AM,WEST,LECT 1,Burnside,PHIL,334
+11,Engineering Ethics,12-16-2024,8:30AM-11:00AM,WEST,LECT 1,Burnside,PHIL,334
+13,Engineering Ethics,12-16-2024,8:30AM-11:00AM,WEST,LECT 1,Burnside,PHIL,334
+15,Engineering Ethics,12-16-2024,8:30AM-11:00AM,WEST,LECT 1,Burnside,PHIL,334
+101,Engineering Ethics,12-17-2024,6:00PM-8:30PM,GITC,1100,Heap,PHIL,334
+451,Engineering Ethics,12-21-2024,6:00PM-8:30PM,Online,NULL,Estrada,PHIL,334
+453,Engineering Ethics,12-21-2024,12:00PM-2:30PM,Online,NULL,George,PHIL,334
+455,Engineering Ethics,12-21-2024,9:00AM-11:30AM,Online,NULL,George,PHIL,334
+457,Engineering Ethics,12-21-2024,6:00PM-8:30PM,Online,NULL,George,PHIL,334
+459,Engineering Ethics,12-21-2024,3:00PM-5:30PM,Online,NULL,Estrada,PHIL,334
+461,Engineering Ethics,12-20-2024,6:00PM-8:30PM,Online,NULL,Estrada,PHIL,334
+H01,Engineering Ethics,12-16-2024,8:30AM-11:00AM,CKB,217,Holbrook,PHIL,334
+1,World Religions,12-18-2024,8:30AM-11:00AM,CKB,215,Brooks,PHIL,337
+451,Biomedical Ethics,12-21-2024,6:00PM-8:30PM,Online,NULL,Deek,PHIL,351
+453,Biomedical Ethics,12-20-2024,6:00PM-8:30PM,Online,NULL,Deek,PHIL,351
+1,General Physics I,12-20-2024,2:30PM-5:00PM,ECEC,100,Kane,PHYS,102
+3,General Physics I,12-20-2024,2:30PM-5:00PM,FMH,408,Kane,PHYS,102
+5,General Physics I,12-20-2024,2:30PM-5:00PM,CKB,106,Ahn,PHYS,102
+7,General Physics I,12-20-2024,2:30PM-5:00PM,KUPF,205,Ahn,PHYS,102
+9,General Physics I,12-20-2024,2:30PM-5:00PM,KUPF,209,Vataj,PHYS,102
+101,General Physics I,12-16-2024,6:00PM-8:30PM,TIER,113,Azizighannad,PHYS,102
+103,General Physics I,12-18-2024,6:00PM-8:30PM,FMH,213,Stefan,PHYS,102
+105,General Physics I,12-17-2024,6:00PM-8:30PM,WEST,LECT 2,Montalvo,PHYS,102
+1,General Physics II,12-20-2024,2:30PM-5:00PM,KUPF,106,Opyrchal,PHYS,103
+101,General Physics II,12-16-2024,6:00PM-8:30PM,KUPF,205,Sirenko,PHYS,103
+1,Physics I,12-19-2024,11:30AM-2:00PM,WEST,LECT 2,Kane,PHYS,111
+3,Physics I,12-19-2024,11:30AM-2:00PM,ECEC,100,Kane,PHYS,111
+5,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,106,Cooper,PHYS,111
+7,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,205,Cooper,PHYS,111
+9,Physics I,12-19-2024,11:30AM-2:00PM,ME,224,Hijazi,PHYS,111
+11,Physics I,12-19-2024,11:30AM-2:00PM,CKB,106,Hijazi,PHYS,111
+13,Physics I,12-19-2024,11:30AM-2:00PM,FMH,408,Cooper,PHYS,111
+15,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,209,Cooper,PHYS,111
+17,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,202,Zhou,PHYS,111
+19,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,207,Zhou,PHYS,111
+21,Physics I,12-19-2024,11:30AM-2:00PM,CULM,110,Hijazi,PHYS,111
+23,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,105,Hijazi,PHYS,111
+25,Physics I,12-19-2024,11:30AM-2:00PM,ME,221,Vataj,PHYS,111
+27,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,104,Levy,PHYS,111
+29,Physics I,12-19-2024,11:30AM-2:00PM,KUPF,206,Levy,PHYS,111
+31,Physics I,12-19-2024,11:30AM-2:00PM,CKB,215,Gokce,PHYS,111
+33,Physics I,12-19-2024,11:30AM-2:00PM,CKB,219,Gokce,PHYS,111
+35,Physics I,12-19-2024,11:30AM-2:00PM,ECEC,115,Vataj,PHYS,111
+37,Physics I,12-19-2024,11:30AM-2:00PM,TIER,105,Maljian,PHYS,111
+101,Physics I,12-17-2024,6:00PM-8:30PM,TIER,113,Gokce,PHYS,111
+103,Physics I,12-19-2024,6:00PM-8:30PM,FMH,408,Yang,PHYS,111
+105,Physics I,12-16-2024,6:00PM-8:30PM,TIER,105,Piatek,PHYS,111
+107,Physics I,12-16-2024,6:00PM-8:30PM,TIER,112,Gokce,PHYS,111
+109,Physics I,12-19-2024,6:00PM-8:30PM,ECEC,100,Piatek,PHYS,111
+H01,Physics I,12-19-2024,11:30AM-2:00PM,CKB,114,Shneidman,PHYS,111
+H03,Physics I,12-19-2024,11:30AM-2:00PM,CKB,114,Shneidman,PHYS,111
+1,Physics II,12-17-2024,2:30PM-5:00PM,WEST,LECT 2,Opyrchal,PHYS,121
+3,Physics II,12-17-2024,2:30PM-5:00PM,ECEC,115,Opyrchal,PHYS,121
+5,Physics II,12-17-2024,2:30PM-5:00PM,KUPF,108,Zhou,PHYS,121
+7,Physics II,12-17-2024,2:30PM-5:00PM,ECEC,100,Zhou,PHYS,121
+9,Physics II,12-17-2024,2:30PM-5:00PM,KUPF,206,Shneidman,PHYS,121
+11,Physics II,12-17-2024,2:30PM-5:00PM,CKB,114,Shneidman,PHYS,121
+13,Physics II,12-17-2024,2:30PM-5:00PM,FMH,408,Thomas,PHYS,121
+15,Physics II,12-17-2024,2:30PM-5:00PM,KUPF,104,Gokce,PHYS,121
+17,Physics II,12-17-2024,2:30PM-5:00PM,KUPF,209,Opyrchal,PHYS,121
+101,Physics II,12-18-2024,6:00PM-8:30PM,KUPF,106,Piatek,PHYS,121
+103,Physics II,12-17-2024,6:00PM-8:30PM,KUPF,203,Piatek,PHYS,121
+1,Electricity & Magntsm ECE Appl,12-19-2024,11:30AM-2:00PM,KUPF,118,Gerrard,PHYS,122
+3,Electricity & Magntsm ECE Appl,12-19-2024,11:30AM-2:00PM,KUPF,118,Gerrard,PHYS,122
+1,Intro Astronomy Cosmolgy,12-18-2024,8:30AM-11:00AM,GITC,1400,Gatley,PHYS,202
+3,Intro Astronomy Cosmolgy,12-16-2024,11:30AM-2:00PM,ECEC,100,Georgiou,PHYS,202
+5,Intro Astronomy Cosmolgy,12-19-2024,8:30AM-11:00AM,ECEC,100,Georgiou,PHYS,202
+101,Intro Astronomy Cosmolgy,12-18-2024,6:00PM-8:30PM,TIER,LECT 2,Maljian,PHYS,202
+103,Intro Astronomy Cosmolgy,12-16-2024,6:00PM-8:30PM,KUPF,106,Kosovichev,PHYS,202
+105,Intro Astronomy Cosmolgy,12-19-2024,6:00PM-8:30PM,CULM,LECT 2,Cooper,PHYS,202
+1,The Earth in Space,12-17-2024,11:30AM-2:00PM,ECEC,100,Maljian,PHYS,203
+3,The Earth in Space,12-19-2024,2:30PM-5:00PM,WEST,LECT 2,Maljian,PHYS,203
+5,The Earth in Space,12-16-2024,2:30PM-5:00PM,FMH,408,Maljian,PHYS,203
+7,The Earth in Space,12-19-2024,2:30PM-5:00PM,ECEC,115,Georgiou,PHYS,203
+9,The Earth in Space,12-17-2024,11:30AM-2:00PM,ECEC,115,Georgiou,PHYS,203
+101,The Earth in Space,12-16-2024,6:00PM-8:30PM,ECEC,100,Georgiou,PHYS,203
+103,The Earth in Space,12-18-2024,6:00PM-8:30PM,FMH,408,Ravindra,PHYS,203
+1,Physics III,12-17-2024,2:30PM-5:00PM,KUPF,106,Jerez,PHYS,234
+3,Physics III,12-17-2024,2:30PM-5:00PM,KUPF,103,Jerez,PHYS,234
+101,Physics III,12-18-2024,6:00PM-8:30PM,CKB,124,Jerez,PHYS,234
+HM1,Physics III,12-17-2024,2:30PM-5:00PM,KUPF,106,Jerez,PHYS,234
+1,Astronomy and Astrophysics II,12-19-2024,8:30AM-11:00AM,TIER,114,Chen,PHYS,321
+1,Special Relativity,12-20-2024,11:30AM-2:00PM,FMH,407,Maljian,PHYS,420
+1,Classical Mechanics I,12-17-2024,11:30AM-2:00PM,CKB,214,Jerez,PHYS,430
+1,Electromagnetism I,12-16-2024,8:30AM-11:00AM,FMH,404,Perry,PHYS,432
+101,Adv Classical Mechanics,12-16-2024,6:00PM-8:30PM,FMH,404,Zhou,PHYS,611
+101,Classical Electrodynamic,12-19-2024,6:00PM-8:30PM,FMH,319,Inoue,PHYS,621
+1,Quantum Mechanics II,12-18-2024,2:30PM-5:00PM,FMH,305,Zhou,PHYS,731
+1,Intro to Helioseismology,12-17-2024,11:30AM-2:00PM,FMH,110,Kosovichev,PHYS,747
+1,Curr Topics Applied Phys,12-20-2024,2:30PM-5:00PM,FMH,203,Goodwin,PHYS,780
+1,Orientation Psych as Behav Sci,12-16-2024,2:30PM-5:00PM,FMH,319,Hyland Bruno,PSY,201
+1,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,CKB,303,Cohen,PSY,210
+3,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,CKB,303,Cohen,PSY,210
+5,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,WEST,LECT 2,Venchkoski,PSY,210
+7,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,ECEC,115,Conover,PSY,210
+9,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,CKB,106,Wolf,PSY,210
+11,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,KUPF,207,Dickerman,PSY,210
+13,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,ECEC,100,Dickerman,PSY,210
+15,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,KUPF,202,Dickerman,PSY,210
+17,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,CKB,303,Cohen,PSY,210
+19,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,CKB,303,Cohen,PSY,210
+21,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,KUPF,117,DiLorenzo,PSY,210
+23,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,KUPF,117,DiLorenzo,PSY,210
+101,Introduction to Psychology,12-21-2024,1:00PM-3:30PM,CKB,223,Anjum,PSY,210
+103,Introduction to Psychology,12-21-2024,9:00AM-11:30AM,CKB,223,Anjum,PSY,210
+105,Introduction to Psychology,12-17-2024,6:00PM-8:30PM,KUPF,108,Venchkoski,PSY,210
+107,Introduction to Psychology,12-19-2024,6:00PM-8:30PM,KUPF,207,Semizer Kaplan,PSY,210
+109,Introduction to Psychology,12-18-2024,6:00PM-8:30PM,KUPF,108,Jones,PSY,210
+H01,Introduction to Psychology,12-20-2024,11:30AM-2:00PM,KUPF,205,Dickerman,PSY,210
+1,SS Research Methods I,12-16-2024,8:30AM-11:00AM,CKB,126,Hunt,PSY,304
+1,SS Research Methods I Lab,12-19-2024,11:30AM-2:00PM,CKB,212,Hunt,PSY,304
+1,Social Psychology,12-17-2024,8:30AM-11:00AM,CKB,206,Venchkoski,PSY,321
+1,Special Topics in Psychology,12-16-2024,8:30AM-11:00AM,CKB,214,Snyder,PSY,325
+1,Psychology of Diversity,12-18-2024,2:30PM-5:00PM,CKB,219,Khichi,PSY,339
+1,Foundations of Cyberpsychology,12-16-2024,8:30AM-11:00AM,CKB,106,Wolf,PSY,359
+HM1,Foundations of Cyberpsychology,12-16-2024,8:30AM-11:00AM,CKB,106,Wolf,PSY,359
+1,Psychopathology,12-17-2024,2:30PM-5:00PM,CKB,226,Venchkoski,PSY,389
+101,Fund of Soft and Data,12-16-2024,6:00PM-8:30PM,CKB,313,Abichandani,SDET,101
+101,Computer Design Fundamentals,12-16-2024,6:00PM-8:30PM,CKB,207,Perumalsamy,SDET,310
+101,Computer Architecture,12-17-2024,6:00PM-8:30PM,MALL,PC36,Perumalsamy,SDET,315
+101,Medical Informatics Technology,12-21-2024,9:00AM-11:30AM,CKB,314,Lubliner,SDET,325
+101,Software Web Applications I,12-18-2024,6:00PM-8:30PM,GITC,2400,Aslam,SDET,330
+101,Network Applications I,12-18-2024,6:00PM-8:30PM,GITC,2315C,Patel,SDET,335
+101,Visual Basic .Net,12-19-2024,6:00PM-8:30PM,MALL,PC40,Tereshkovich,SDET,341
+101,Web App Development for Mobile,12-20-2024,6:00PM-8:30PM,GITC,2302,Nasello,SDET,373
+451,Web App Development for Mobile,12-21-2024,9:00AM-11:30AM,Online,NULL,Nasello,SDET,373
+1,Senior Project,12-20-2024,2:30PM-5:00PM,FMH,206,Bedi,SDET,401
+101,Software Web Applications II,12-17-2024,6:00PM-8:30PM,GITC,2305,Aslam,SDET,430
+101,Network Applications II,12-16-2024,6:00PM-8:30PM,GITC,2400,Patel,SDET,435
+101,Introduction To Geomatics,12-16-2024,6:00PM-8:30PM,CKB,126,Potts,SET,200
+101,Introduction to Geomatics Lab,12-21-2024,9:00AM-11:30AM,CKB,313,Todosov,SET,200
+101,Photogram & Aerial Photo,12-18-2024,6:00PM-8:30PM,MALL,PC39,Jin,SET,303
+102,Bound & Adjacent Propert,12-20-2024,6:00PM-8:30PM,CKB,126,Potts,SET,307
+1,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,WEST,LECT 1,Bozicevic,STS,201
+3,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,WEST,LECT 1,Bozicevic,STS,201
+5,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,WEST,LECT 1,Bozicevic,STS,201
+7,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,ECEC,115,Keeler,STS,201
+9,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,GITC,1400,Stanik,STS,201
+11,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,GITC,1400,Stanik,STS,201
+13,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,WEST,LECT 2,Goncalves Leonel da Silva,STS,201
+15,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,ECEC,100,Leli,STS,201
+17,Und Tech Soc: Intro STS,12-16-2024,2:30PM-5:00PM,CKB,106,Pullum,STS,201
+1,Intro to Research Methods,12-17-2024,8:30AM-11:00AM,FMH,405,Collins,STS,205
+H01,Intro to Research Methods,12-17-2024,8:30AM-11:00AM,TIER,106,Tancredi-Brice Agbenyega,STS,205
+1,Introduction to Sociology,12-20-2024,8:30AM-11:00AM,KUPF,206,Edel,STS,221
+3,Introduction to Sociology,12-20-2024,8:30AM-11:00AM,TIER,105,Manley,STS,221
+1,Intro to Anthropology,12-19-2024,11:30AM-2:00PM,CKB,207,Brooks,STS,230
+1,Globalization,12-17-2024,2:30PM-5:00PM,KUPF,107,Hunt,STS,308
+HM1,Globalization,12-17-2024,2:30PM-5:00PM,KUPF,107,Hunt,STS,308
+1,ST:,12-17-2024,8:30AM-11:00AM,CKB,207,See,STS,325
+3,ST:,12-17-2024,8:30AM-11:00AM,CKB,212,Rothenberg,STS,325
+5,ST:,12-17-2024,8:30AM-11:00AM,FMH,319,Pullum,STS,325
+H01,ST:,12-17-2024,8:30AM-11:00AM,FMH,407,Edel,STS,325
+101,"Gender, Technology and Society",12-17-2024,6:00PM-8:30PM,CULM,LECT 1,Steffen-Fluhr,STS,342
+HM1,"Gender, Technology and Society",12-17-2024,6:00PM-8:30PM,CULM,LECT 1,Steffen-Fluhr,STS,342
+101,Race and Ethnicity,12-18-2024,6:00PM-8:30PM,FMH,110,Dickerman,STS,352
+1,Ethics and the Environment,12-18-2024,8:30AM-11:00AM,TIER,107,See,STS,360
+101,Sustainability Studies,12-17-2024,6:00PM-8:30PM,KUPF,205,Cohen,STS,363
+HM1,Sustainability Studies,12-17-2024,6:00PM-8:30PM,KUPF,205,Cohen,STS,363
+1,Living Theatre,12-17-2024,11:30AM-2:00PM,CKB,212,Edwards,THTR,101
+1,Acting Fundamentals,12-16-2024,2:30PM-5:00PM,CKB,310,Self,THTR,102
+1,From Page to Stage,12-19-2024,2:30PM-5:00PM,CKB,212,Edwards,THTR,212
+1,Directing I,12-20-2024,2:30PM-5:00PM,FMH,405,Edwards,THTR,213
+1,Improvisational Thtr-ShortForm,12-20-2024,8:30AM-11:00AM,CKB,226,Kornfeld,THTR,216
+1,Theatre History I,12-18-2024,2:30PM-5:00PM,FMH,405,Edwards,THTR,310
+1,Principles of Playwriting,12-18-2024,11:30AM-2:00PM,FMH,407,Lobontiu,THTR,365
+101,Intro Urban Trans Plan,12-19-2024,6:00PM-8:30PM,CKB,220,Chien,TRAN,603
+101,Transportation Economics,12-16-2024,6:00PM-8:30PM,COLT,423,Dimitrijevic,TRAN,610
+851,Traffic Studies and Capacity,12-18-2024,6:00PM-8:30PM,Online,NULL,Besenski,TRAN,615
+853,Traffic Studies and Capacity,12-17-2024,6:00PM-8:30PM,Online,NULL,Besenski,TRAN,615
+851,Urban Systems Engineering,12-18-2024,6:00PM-8:30PM,Online,NULL,Spasovic,TRAN,650
+853,Urban Systems Engineering,12-21-2024,6:00PM-8:30PM,Online,NULL,Spasovic,TRAN,650
