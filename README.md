@@ -8,6 +8,11 @@ https://github.com/user-attachments/assets/07d61f3e-f189-4001-b8a2-521da4bcff74
   <li>The backend uses Flask and Python</li>
 </ul>
 
+<h2>Setup</h2>
+<h3>Database</h3>
+<h3>BackEnd</h3>
+<h3>Frontend</h3>
+
 <h2>Reflection</h2>
 <p>
   This project taught me how to see up request and to communcate with the database to retrieve information and send to users
