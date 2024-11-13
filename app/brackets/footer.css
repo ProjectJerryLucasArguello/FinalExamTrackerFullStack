@@ -1,0 +1,22 @@
+/* footer.css */
+
+.foot-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+  }
+  
+  /* Media Query for smaller screens */
+  @media (max-width: 640px) {
+    .foot-container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .icons {
+      margin-top: 0.5rem;
+    }
+  }
+  
